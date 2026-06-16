@@ -1,0 +1,198 @@
+Nome;Gênero;Cor_dos_olhos;Raça;Cor_do_cabelo;Altura_cm;Editora;Cor_da_pele;Alinhamento;Peso_kg;Altura_m;IMC
+Killer Frost;Feminino;blue;Human;Blond;186.72630560928434;DC Comics;blue;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Mystique;Feminino;yellow (without irises);Mutant;Red / Orange;178.0;Marvel Comics;blue;mau;54.0;1.78;17.043302613306402
+Nebula;Feminino;blue;Luphomoid;No Hair;185.0;Marvel Comics;blue;mau;83.0;1.85;24.251278305332356
+Shadow Lass;Feminino;black;Talokite;Black;173.0;DC Comics;blue;bom;54.0;1.73;18.042701059173375
+Copycat;Feminino;red;Mutant;White;183.0;Marvel Comics;blue;neutro;67.0;1.83;20.00656932126967
+Nova;Feminino;white;Human / Cosmic;Red;163.0;Marvel Comics;gold;bom;59.0;1.63;22.20633068613798
+Ardina;Feminino;white;Alien;Orange;193.0;Marvel Comics;gold;bom;98.0;1.93;26.309431125667803
+Poison Ivy;Feminino;green;Human;Red;168.0;DC Comics;green;mau;50.0;1.68;17.71541950113379
+Mantis;Feminino;green;HumanKree;Black;168.0;Marvel Comics;green;bom;52.0;1.68;18.42403628117914
+Gamora;Feminino;yellow;ZenWhoberian;Black;183.0;Marvel Comics;green;bom;77.0;1.83;22.99262444384723
+Starfire;Feminino;green;Tamaranean;Auburn;193.0;DC Comics;orange;bom;71.0;1.93;19.060914386963407
+Blink;Feminino;green;Mutant;Magenta;165.0;Marvel Comics;pink;bom;56.0;1.65;20.569329660238754
+T-X;Feminino;unknown;Cyborg;unknown;186.72630560928434;Dark Horse Comics;silver;mau;149.0;1.8672630560928434;42.73416858009364
+Domino;Feminino;blue;Human;Black;173.0;Marvel Comics;white;bom;54.0;1.73;18.042701059173375
+Granny Goodness;Feminino;blue;unknown;White;178.0;DC Comics;unknown;mau;115.0;1.78;36.295922232041406
+Giganta;Feminino;green;unknown;Red;62.5;DC Comics;unknown;mau;630.0;0.625;1612.8
+Maxima;Feminino;brown;unknown;Red;180.0;DC Comics;unknown;mau;72.0;1.8;22.22222222222222
+Plastique;Feminino;blue;unknown;Red;168.0;DC Comics;unknown;mau;55.0;1.68;19.48696145124717
+Siren;Feminino;blue;Atlantean;Purple;175.0;DC Comics;unknown;mau;72.0;1.75;23.510204081632654
+Cheetah II;Feminino;green;Human;Brown;170.0;DC Comics;unknown;mau;55.0;1.7;19.031141868512112
+Cheetah III;Feminino;brown;Human;Brown;175.0;DC Comics;unknown;mau;54.0;1.75;17.632653061224488
+Cheetah;Feminino;green;Human;Blond;163.0;DC Comics;unknown;mau;50.0;1.63;18.818924310286427
+Harley Quinn;Feminino;blue;Human;Blond;170.0;DC Comics;unknown;mau;63.0;1.7;21.79930795847751
+White Canary;Feminino;brown;Human;Black;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Big Barda;Feminino;blue;New God;Black;188.0;DC Comics;unknown;mau;135.0;1.88;38.19601629696695
+Faora;Feminino;unknown;Kryptonian;unknown;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Siren II;Feminino;black;unknown;unknown;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Angela;Feminino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Bomb Queen;Feminino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Spider-Woman IV;Feminino;red;unknown;White;178.0;Marvel Comics;unknown;mau;58.0;1.78;18.30576947355132
+Siryn;Feminino;blue;unknown;Strawberry Blond;168.0;Marvel Comics;unknown;mau;52.0;1.68;18.42403628117914
+Scorpia;Feminino;green;unknown;Red;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Goblin Queen;Feminino;green;unknown;Red;168.0;Marvel Comics;unknown;mau;50.0;1.68;17.71541950113379
+Arclight;Feminino;violet;unknown;Purple;173.0;Marvel Comics;unknown;mau;57.0;1.73;19.045073340238563
+Bloodaxe;Feminino;blue;Human;Brown;218.0;Marvel Comics;unknown;mau;495.0;2.18;104.1578991667368
+Scarlet Witch;Feminino;blue;Mutant;Brown;170.0;Marvel Comics;unknown;mau;59.0;1.7;20.41522491349481
+Moonstone;Feminino;blue;unknown;Blond;180.0;Marvel Comics;unknown;mau;59.0;1.8;18.209876543209877
+Hela;Feminino;green;Asgardian;Black;213.0;Marvel Comics;unknown;mau;225.0;2.13;49.59333465582227
+Lady Deathstrike;Feminino;brown;Cyborg;Black;175.0;Marvel Comics;unknown;mau;58.0;1.75;18.93877551020408
+Black Mamba;Feminino;green;unknown;Black;170.0;Marvel Comics;unknown;mau;52.0;1.7;17.99307958477509
+Frenzy;Feminino;brown;unknown;Black;211.0;Marvel Comics;unknown;mau;104.0;2.11;23.35976280856225
+Callisto;Feminino;blue;unknown;Black;175.0;Marvel Comics;unknown;mau;74.0;1.75;24.163265306122447
+Lady Bullseye;Feminino;unknown;unknown;Black;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Elle Bishop;Feminino;blue;unknown;Blond;186.72630560928434;NBC - Heroes;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Stephanie Powell;Feminino;unknown;unknown;Blond;186.72630560928434;ABC Studios;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Daphne Powell;Feminino;unknown;unknown;unknown;186.72630560928434;ABC Studios;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Elastigirl;Feminino;brown;Human;Brown;168.0;Dark Horse Comics;unknown;bom;56.0;1.68;19.841269841269845
+Buffy;Feminino;green;Human;Blond;157.0;Dark Horse Comics;unknown;bom;52.0;1.57;21.096190514828187
+Violet Parr;Feminino;violet;Human;Black;137.0;Dark Horse Comics;unknown;bom;41.0;1.37;21.84453087537961
+Liz Sherman;Feminino;unknown;unknown;unknown;186.72630560928434;Dark Horse Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Mera;Feminino;blue;Atlantean;Red;175.0;DC Comics;unknown;bom;72.0;1.75;23.510204081632654
+Batwoman V;Feminino;green;Human;Red;178.0;DC Comics;unknown;bom;112.25252525252525;1.78;35.42877327752974
+Batgirl;Feminino;green;Human;Red;170.0;DC Comics;unknown;bom;57.0;1.7;19.723183391003463
+Oracle;Feminino;blue;Human;Red;178.0;DC Comics;unknown;bom;59.0;1.78;18.621386188612547
+Miss Martian;Feminino;red;unknown;Red;178.0;DC Comics;unknown;bom;61.0;1.78;19.252619618735007
+Hawkwoman;Feminino;green;unknown;Red;175.0;DC Comics;unknown;bom;54.0;1.75;17.632653061224488
+Hawkgirl;Feminino;green;unknown;Red;175.0;DC Comics;unknown;bom;61.0;1.75;19.918367346938776
+Misfit;Feminino;blue;unknown;Red;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Light Lass;Feminino;blue;unknown;Red;165.0;DC Comics;unknown;bom;54.0;1.65;19.834710743801654
+Hawkwoman III;Feminino;blue;unknown;Red;170.0;DC Comics;unknown;bom;65.0;1.7;22.49134948096886
+Fighting Spirit;Feminino;unknown;unknown;Red;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Jessica Cruz;Feminino;green;Human;Brown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Speedy;Feminino;green;Human;Brown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Triplicate Girl;Feminino;purple;unknown;Brown;168.0;DC Comics;unknown;bom;59.0;1.68;20.904195011337873
+Wonder Girl;Feminino;blue;DemiGod;Blond;165.0;DC Comics;unknown;bom;51.0;1.65;18.73278236914601
+Enchantress;Feminino;blue;Human;Blond;168.0;DC Comics;unknown;bom;57.0;1.68;20.19557823129252
+Black Canary;Feminino;blue;Human;Blond;165.0;DC Comics;unknown;bom;58.0;1.65;21.30394857667585
+Stargirl;Feminino;blue;Human;Blond;165.0;DC Comics;unknown;bom;62.0;1.65;22.77318640955005
+Supergirl;Feminino;blue;Kryptonian;Blond;165.0;DC Comics;unknown;bom;54.0;1.65;19.834710743801654
+Power Girl;Feminino;blue;Kryptonian;blond;180.0;DC Comics;unknown;bom;81.0;1.8;25.0
+Batgirl VI;Feminino;blue;unknown;Blond;168.0;DC Comics;unknown;bom;61.0;1.68;21.612811791383223
+Donna Troy;Feminino;blue;Amazon;Black;175.0;DC Comics;unknown;bom;63.0;1.75;20.571428571428573
+Wonder Woman;Feminino;blue;Amazon;Black;183.0;DC Comics;unknown;bom;74.0;1.83;22.096807907073963
+Batgirl IV;Feminino;green;Human;Black;165.0;DC Comics;unknown;bom;52.0;1.65;19.100091827364558
+Catwoman;Feminino;green;Human;Black;175.0;DC Comics;unknown;bom;61.0;1.75;19.918367346938776
+Bumblebee;Feminino;brown;Human;Black;170.0;DC Comics;unknown;bom;59.0;1.7;20.41522491349481
+Zatanna;Feminino;blue;Human;Black;170.0;DC Comics;unknown;bom;57.0;1.7;19.723183391003463
+Vixen;Feminino;amber;Human;Black;175.0;DC Comics;unknown;bom;63.0;1.75;20.571428571428573
+Phantom Girl;Feminino;blue;unknown;Black;168.0;DC Comics;unknown;bom;54.0;1.68;19.13265306122449
+Huntress;Feminino;blue;unknown;Black;180.0;DC Comics;unknown;bom;59.0;1.8;18.209876543209877
+Atom Girl;Feminino;black;unknown;Black;168.0;DC Comics;unknown;bom;54.0;1.68;19.13265306122449
+Jesse Quick;Feminino;unknown;Human;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Batgirl III;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Batgirl V;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Hawkwoman II;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Isis;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Shrinking Violet;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Silk Spectre;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Silk Spectre II;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Rey;Feminino;hazel;Human;Brown;297.0;George Lucas;unknown;bom;112.25252525252525;2.97;12.725745134002791
+Jyn Erso;Feminino;green;Human;Brown;186.72630560928434;George Lucas;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Energy;Feminino;unknown;unknown;unknown;186.72630560928434;HarperCollins;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Renata Soliz;Feminino;unknown;unknown;unknown;186.72630560928434;HarperCollins;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Hit-Girl;Feminino;unknown;Human;unknown;186.72630560928434;Icon Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Storm;Feminino;blue;Mutant;White;180.0;Marvel Comics;unknown;bom;57.0;1.8;17.59259259259259
+Frigga;Feminino;blue;unknown;White;180.0;Marvel Comics;unknown;bom;167.0;1.8;51.54320987654321
+Yellowjacket II;Feminino;blue;Human;Strawberry Blond;165.0;Marvel Comics;unknown;bom;52.0;1.65;19.100091827364558
+Vagabond;Feminino;blue;unknown;Strawberry Blond;168.0;Marvel Comics;unknown;bom;54.0;1.68;19.13265306122449
+Vertigo II;Feminino;blue;unknown;Silver;168.0;Marvel Comics;unknown;bom;52.0;1.68;18.42403628117914
+Songbird;Feminino;green;unknown;Red / White;165.0;Marvel Comics;unknown;bom;65.0;1.65;23.875114784205696
+Vindicator;Feminino;green;Human;Red;165.0;Marvel Comics;unknown;bom;54.0;1.65;19.834710743801654
+Hellcat;Feminino;blue;Human;Red;173.0;Marvel Comics;unknown;bom;61.0;1.73;20.381569714992146
+Crystal;Feminino;green;Inhuman;Red;168.0;Marvel Comics;unknown;bom;50.0;1.68;17.71541950113379
+Medusa;Feminino;green;Inhuman;Red;180.0;Marvel Comics;unknown;bom;59.0;1.8;18.209876543209877
+Jean Grey;Feminino;green;Mutant;Red;168.0;Marvel Comics;unknown;bom;52.0;1.68;18.42403628117914
+Phoenix;Feminino;green;Mutant;Red;168.0;Marvel Comics;unknown;bom;52.0;1.68;18.42403628117914
+Firestar;Feminino;green;Mutant;Red;173.0;Marvel Comics;unknown;bom;56.0;1.73;18.710949246550168
+Thundra;Feminino;green;unknown;Red;218.0;Marvel Comics;unknown;bom;158.0;2.18;33.24635973402912
+Hope Summers;Feminino;green;unknown;Red;168.0;Marvel Comics;unknown;bom;48.0;1.68;17.006802721088437
+Marvel Girl;Feminino;green;unknown;Red;170.0;Marvel Comics;unknown;bom;56.0;1.7;19.377162629757787
+Hollow;Feminino;blue;unknown;Red;170.0;Marvel Comics;unknown;bom;112.25252525252525;1.7;38.841704239628115
+Ms Marvel II;Feminino;blue;unknown;Red;173.0;Marvel Comics;unknown;bom;61.0;1.73;20.381569714992146
+Psylocke;Feminino;blue;Mutant;Purple;180.0;Marvel Comics;unknown;bom;70.0;1.8;21.604938271604937
+Ariel;Feminino;purple;unknown;Pink;165.0;Marvel Comics;unknown;bom;59.0;1.65;21.6712580348944
+She-Thing;Feminino;blue;Human / Radiation;No Hair;183.0;Marvel Comics;unknown;bom;153.0;1.83;45.6866433754367
+She-Hulk;Feminino;green;Human;Green;201.0;Marvel Comics;unknown;bom;315.0;2.01;77.96836711962577
+Polaris;Feminino;green;Mutant;Green;170.0;Marvel Comics;unknown;bom;52.0;1.7;17.99307958477509
+Lyja;Feminino;green;unknown;Green;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Rogue;Feminino;green;unknown;Brown / White;173.0;Marvel Comics;unknown;bom;54.0;1.73;18.042701059173375
+Jessica Jones;Feminino;brown;Human;Brown;170.0;Marvel Comics;unknown;bom;56.0;1.7;19.377162629757787
+Spider-Girl;Feminino;blue;Human;Brown;170.0;Marvel Comics;unknown;bom;54.0;1.7;18.68512110726644
+Shadowcat;Feminino;hazel;Mutant;Brown;168.0;Marvel Comics;unknown;bom;50.0;1.68;17.71541950113379
+Spider-Woman III;Feminino;brown;unknown;Brown;173.0;Marvel Comics;unknown;bom;55.0;1.73;18.376825152861773
+Thor Girl;Feminino;blue;Asgardian;Blond;175.0;Marvel Comics;unknown;bom;143.0;1.75;46.69387755102041
+Black Cat;Feminino;green;Human;Blond;178.0;Marvel Comics;unknown;bom;54.0;1.78;17.043302613306402
+Spider-Gwen;Feminino;blue;Human;Blond;165.0;Marvel Comics;unknown;bom;56.0;1.65;20.569329660238754
+Mockingbird;Feminino;blue;Human;Blond;175.0;Marvel Comics;unknown;bom;61.0;1.75;19.918367346938776
+Arachne;Feminino;blue;Human;Blond;175.0;Marvel Comics;unknown;bom;63.0;1.75;20.571428571428573
+Invisible Woman;Feminino;blue;Human / Radiation;Blond;168.0;Marvel Comics;unknown;bom;54.0;1.68;19.13265306122449
+Darkstar;Feminino;brown;Mutant;Blond;168.0;Marvel Comics;unknown;bom;56.0;1.68;19.841269841269845
+Dazzler;Feminino;blue;Mutant;Blond;173.0;Marvel Comics;unknown;bom;52.0;1.73;17.374452871796585
+Boom-Boom;Feminino;blue;Mutant;Blond;165.0;Marvel Comics;unknown;bom;55.0;1.65;20.202020202020204
+Husk;Feminino;blue;Mutant;Blond;170.0;Marvel Comics;unknown;bom;58.0;1.7;20.06920415224914
+Snowbird;Feminino;white;unknown;Blond;178.0;Marvel Comics;unknown;bom;49.0;1.78;15.465219038000251
+Namorita;Feminino;blue;unknown;Blond;168.0;Marvel Comics;unknown;bom;101.0;1.68;35.785147392290256
+Ultragirl;Feminino;blue;unknown;Blond;168.0;Marvel Comics;unknown;bom;105.0;1.68;37.202380952380956
+Valkyrie;Feminino;blue;unknown;Blond;191.0;Marvel Comics;unknown;bom;214.0;1.91;58.66067267892876
+Dagger;Feminino;blue;unknown;Blond;165.0;Marvel Comics;unknown;bom;52.0;1.65;19.100091827364558
+Meltdown;Feminino;blue;unknown;Blond;165.0;Marvel Comics;unknown;bom;54.0;1.65;19.834710743801654
+Binary;Feminino;blue;unknown;Blond;180.0;Marvel Comics;unknown;bom;54.0;1.8;16.666666666666664
+Warbird;Feminino;blue;unknown;Blond;180.0;Marvel Comics;unknown;bom;54.0;1.8;16.666666666666664
+Jennifer Kale;Feminino;blue;unknown;Blond;168.0;Marvel Comics;unknown;bom;55.0;1.68;19.48696145124717
+Black Widow II;Feminino;blue;unknown;Blond;170.0;Marvel Comics;unknown;bom;61.0;1.7;21.107266435986162
+Agent 13;Feminino;blue;unknown;Blond;173.0;Marvel Comics;unknown;bom;61.0;1.73;20.381569714992146
+Cat;Feminino;blue;unknown;Blond;173.0;Marvel Comics;unknown;bom;61.0;1.73;20.381569714992146
+Emma Frost;Feminino;blue;unknown;Blond;178.0;Marvel Comics;unknown;bom;65.0;1.78;20.515086478979924
+White Queen;Feminino;blue;unknown;Blond;178.0;Marvel Comics;unknown;bom;65.0;1.78;20.515086478979924
+Namora;Feminino;blue;unknown;Blond;180.0;Marvel Comics;unknown;bom;85.0;1.8;26.234567901234566
+Sif;Feminino;blue;Asgardian;Black;188.0;Marvel Comics;unknown;bom;191.0;1.88;54.04028972385695
+Spider-Woman;Feminino;green;Human;Black;178.0;Marvel Comics;unknown;bom;59.0;1.78;18.621386188612547
+Silk;Feminino;brown;Human;Black;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Hawkeye II;Feminino;blue;Human;Black;165.0;Marvel Comics;unknown;bom;57.0;1.65;20.936639118457304
+Elektra;Feminino;blue;Human;Black;175.0;Marvel Comics;unknown;bom;59.0;1.75;19.26530612244898
+Angel Dust;Feminino;yellow;Mutant;Black;165.0;Marvel Comics;unknown;bom;57.0;1.65;20.936639118457304
+Jubilee;Feminino;red;Mutant;Black;165.0;Marvel Comics;unknown;bom;52.0;1.65;19.100091827364558
+Aurora;Feminino;blue;Mutant;Black;180.0;Marvel Comics;unknown;bom;63.0;1.8;19.444444444444443
+Negasonic Teenage Warhead;Feminino;black;Mutant;Black;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+X-23;Feminino;green;Mutant / Clone;Black;155.0;Marvel Comics;unknown;bom;50.0;1.55;20.811654526534856
+Shriek;Feminino;yellow / blue;unknown;Black;173.0;Marvel Comics;unknown;bom;52.0;1.73;17.374452871796585
+Ripcord;Feminino;green;unknown;Black;180.0;Marvel Comics;unknown;bom;72.0;1.8;22.22222222222222
+Silverclaw;Feminino;brown;unknown;Black;157.0;Marvel Comics;unknown;bom;50.0;1.57;20.28479857195018
+Angel Salvadore;Feminino;brown;unknown;Black;163.0;Marvel Comics;unknown;bom;54.0;1.63;20.32443825510934
+Tempest;Feminino;brown;unknown;Black;163.0;Marvel Comics;unknown;bom;54.0;1.63;20.32443825510934
+Firebird;Feminino;brown;unknown;Black;165.0;Marvel Comics;unknown;bom;56.0;1.65;20.569329660238754
+Jolt;Feminino;blue;unknown;Black;165.0;Marvel Comics;unknown;bom;49.0;1.65;17.99816345270891
+Sage;Feminino;blue;unknown;Black;170.0;Marvel Comics;unknown;bom;61.0;1.7;21.107266435986162
+Armor;Feminino;black;unknown;Black;163.0;Marvel Comics;unknown;bom;50.0;1.63;18.818924310286427
+Black Widow;Feminino;green;Human;Auburn;170.0;Marvel Comics;unknown;bom;59.0;1.7;20.41522491349481
+Wasp;Feminino;blue;Human;Auburn;163.0;Marvel Comics;unknown;bom;50.0;1.63;18.818924310286427
+Wolfsbane;Feminino;green;unknown;Auburn;366.0;Marvel Comics;unknown;bom;473.0;3.66;35.31010182447967
+Tigra;Feminino;green;unknown;Auburn;178.0;Marvel Comics;unknown;bom;81.0;1.78;25.5649539199596
+Luna;Feminino;unknown;Human;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Cerebra;Feminino;unknown;Mutant;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Boomer;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Cat II;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Meteorite;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Penance I;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Spider-Woman II;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Stacy X;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Wondra;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Bling!;Feminino;unknown;unknown;unknown;168.0;Marvel Comics;unknown;bom;68.0;1.68;24.092970521541954
+Claire Bennet;Feminino;blue;unknown;Blond;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Niki Sanders;Feminino;blue;unknown;Blond;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Jessica Sanders;Feminino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Maya Herrera;Feminino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Monica Dawson;Feminino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Tracy Strauss;Feminino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Kathryn Janeway;Feminino;unknown;Human;unknown;186.72630560928434;Star Trek;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Nina Theroux;Feminino;unknown;Alpha;unknown;186.72630560928434;SyFy;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Rachel Pirzad;Feminino;unknown;Alpha;unknown;186.72630560928434;SyFy;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Valerie Hart;Feminino;hazel;unknown;Black;175.0;Team Epic TV;unknown;bom;56.0;1.75;18.285714285714285
+Minna Murray;Feminino;unknown;unknown;unknown;186.72630560928434;Wildstorm;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Bionic Woman;Feminino;blue;Cyborg;Black;186.72630560928434;unknown;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Katniss Everdeen;Feminino;unknown;Human;unknown;186.72630560928434;unknown;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Robin VI;Feminino;green;Human;Red;186.72630560928434;DC Comics;unknown;neutro;112.25252525252525;1.8672630560928434;32.194753944178736
+Indigo;Feminino;unknown;Alien;Purple;186.72630560928434;DC Comics;unknown;neutro;112.25252525252525;1.8672630560928434;32.194753944178736
+Raven;Feminino;indigo;Human;Black;165.0;DC Comics;unknown;neutro;50.0;1.65;18.36547291092746

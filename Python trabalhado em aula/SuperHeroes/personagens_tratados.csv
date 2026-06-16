@@ -1,0 +1,716 @@
+Nome;Gênero;Cor_dos_olhos;Raça;Cor_do_cabelo;Altura_cm;Editora;Cor_da_pele;Alinhamento;Peso_kg;Altura_m;IMC
+Alien;Masculino;unknown;Xenomorph XX121;No Hair;244.0;Dark Horse Comics;black;mau;169.0;2.44;28.386186509002957
+Killer Frost;Feminino;blue;Human;Blond;186.72630560928434;DC Comics;blue;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Mystique;Feminino;yellow (without irises);Mutant;Red / Orange;178.0;Marvel Comics;blue;mau;54.0;1.78;17.043302613306402
+Nebula;Feminino;blue;Luphomoid;No Hair;185.0;Marvel Comics;blue;mau;83.0;1.85;24.251278305332356
+Abe Sapien;Masculino;blue;Icthyo Sapien;No Hair;191.0;Dark Horse Comics;blue;bom;65.0;1.91;17.81749403799238
+Dr Manhattan;Masculino;white;Human / Cosmic;No Hair;186.72630560928434;DC Comics;blue;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Shadow Lass;Feminino;black;Talokite;Black;173.0;DC Comics;blue;bom;54.0;1.73;18.042701059173375
+Beast;Masculino;blue;Mutant;Blue;180.0;Marvel Comics;blue;bom;181.0;1.8;55.864197530864196
+Archangel;Masculino;blue;Mutant;Blond;183.0;Marvel Comics;blue;bom;68.0;1.83;20.305174833527424
+Copycat;Feminino;red;Mutant;White;183.0;Marvel Comics;blue;neutro;67.0;1.83;20.00656932126967
+Lobo;Masculino;red;Czarnian;Black;229.0;DC Comics;bluewhite;neutro;288.0;2.29;54.91886119639213
+Nova;Feminino;white;Human / Cosmic;Red;163.0;Marvel Comics;gold;bom;59.0;1.63;22.20633068613798
+Ardina;Feminino;white;Alien;Orange;193.0;Marvel Comics;gold;bom;98.0;1.93;26.309431125667803
+Living Tribunal;Desconhecido;blue;Cosmic Entity;No Hair;186.72630560928434;Marvel Comics;gold;neutro;112.25252525252525;1.8672630560928434;32.194753944178736
+K-2SO;Masculino;white;Android;No Hair;213.0;George Lucas;gray;bom;112.25252525252525;2.13;24.742120225820553
+Poison Ivy;Feminino;green;Human;Red;168.0;DC Comics;green;mau;50.0;1.68;17.71541950113379
+Brainiac;Masculino;green;Android;No Hair;198.0;DC Comics;green;mau;135.0;1.98;34.43526170798898
+Swamp Thing;Masculino;red;God / Eternal;No Hair;186.72630560928434;DC Comics;green;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Killer Croc;Masculino;red;Metahuman;No Hair;244.0;DC Comics;green;mau;356.0;2.44;59.7957538296157
+Greedo;Masculino;purple;Rodian;unknown;170.0;George Lucas;green;mau;112.25252525252525;1.7;38.841704239628115
+Evilhawk;Masculino;red;Alien;Black;191.0;Marvel Comics;green;mau;106.0;1.91;29.05622104657219
+Martian Manhunter;Masculino;red;Martian;No Hair;201.0;DC Comics;green;bom;135.0;2.01;33.41501447983962
+Beast Boy;Masculino;green;Human;Green;173.0;DC Comics;green;bom;68.0;1.73;22.720438370810918
+Yoda;Masculino;brown;Yoda's species;White;66.0;George Lucas;green;bom;17.0;0.66;39.02662993572084
+Donatello;Masculino;green;Mutant;No Hair;186.72630560928434;IDW Publishing;green;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Leonardo;Masculino;blue;Mutant;No Hair;186.72630560928434;IDW Publishing;green;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Raphael;Masculino;unknown;Mutant;No Hair;186.72630560928434;IDW Publishing;green;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Michelangelo;Masculino;blue;Mutant;unknown;186.72630560928434;IDW Publishing;green;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Drax the Destroyer;Masculino;red;Human / Altered;No Hair;193.0;Marvel Comics;green;bom;306.0;1.93;82.14985637198315
+Triton;Masculino;green;Inhuman;No Hair;188.0;Marvel Comics;green;bom;86.0;1.88;24.332277048438208
+Fin Fang Foom;Masculino;red;Kakarantharaian;No Hair;975.0;Marvel Comics;green;bom;18.0;9.75;0.1893491124260355
+Man-Thing;Masculino;red;unknown;No Hair;213.0;Marvel Comics;green;bom;225.0;2.13;49.59333465582227
+Hulk;Masculino;green;Human / Radiation;Green;244.0;Marvel Comics;green;bom;630.0;2.44;105.81832840634239
+Mantis;Feminino;green;HumanKree;Black;168.0;Marvel Comics;green;bom;52.0;1.68;18.42403628117914
+Gamora;Feminino;yellow;ZenWhoberian;Black;183.0;Marvel Comics;green;bom;77.0;1.83;22.99262444384723
+Toad;Masculino;black;Mutant;Brown;175.0;Marvel Comics;green;neutro;76.0;1.75;24.816326530612244
+Darkseid;Masculino;red;New God;No Hair;267.0;DC Comics;grey;mau;817.0;2.67;114.60393609112205
+Tiger Shark;Masculino;grey;Human;No Hair;185.0;Marvel Comics;grey;mau;203.0;1.85;59.313367421475526
+Apocalypse;Masculino;red;Mutant;Black;213.0;Marvel Comics;grey;mau;135.0;2.13;29.75600079349336
+Godzilla;Desconhecido;unknown;Kaiju;unknown;108.0;unknown;grey;mau;112.25252525252525;1.08;96.23844757589612
+Century;Masculino;white;Alien;White;201.0;Marvel Comics;grey;bom;97.0;2.01;24.009306700329205
+Starfire;Feminino;green;Tamaranean;Auburn;193.0;DC Comics;orange;bom;71.0;1.93;19.060914386963407
+Jar Jar Binks;Masculino;yellow;Gungan;unknown;193.0;George Lucas;orange / white;bom;112.25252525252525;1.93;30.135715120546926
+Kilowog;Masculino;red;Bolovaxian;No Hair;234.0;DC Comics;pink;bom;324.0;2.34;59.1715976331361
+Blink;Feminino;green;Mutant;Magenta;165.0;Marvel Comics;pink;bom;56.0;1.65;20.569329660238754
+Purple Man;Masculino;purple;Human;Purple;180.0;Marvel Comics;purple;mau;74.0;1.8;22.839506172839506
+Thanos;Masculino;red;Eternal;No Hair;201.0;Marvel Comics;purple;mau;443.0;2.01;109.65075121902926
+Gladiator;Masculino;blue;Strontian;Blue;198.0;Marvel Comics;purple;neutro;268.0;1.98;68.36037139067442
+Trigon;Masculino;yellow;God / Eternal;Black;186.72630560928434;DC Comics;red;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Klaw;Masculino;red;Human;No Hair;188.0;Marvel Comics;red;mau;97.0;1.88;27.44454504300589
+Exodus;Masculino;blue;Mutant;Black;183.0;Marvel Comics;red;mau;88.0;1.83;26.27728507868255
+Azazel;Masculino;yellow;Neyaphem;Black;183.0;Marvel Comics;red;mau;67.0;1.83;20.00656932126967
+Abin Sur;Masculino;blue;Ungaran;No Hair;185.0;DC Comics;red;bom;90.0;1.85;26.296566837107374
+Vision;Masculino;gold;Android;No Hair;191.0;Marvel Comics;red;bom;135.0;1.91;37.00556454044571
+Kool-Aid Man;Masculino;black;unknown;No Hair;186.72630560928434;unknown;red;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Sinestro;Masculino;black;Korugaran;Black;201.0;DC Comics;red;neutro;92.0;2.01;22.771713571446256
+Red Hulk;Masculino;yellow;Human / Radiation;Black;213.0;Marvel Comics;red;neutro;630.0;2.13;138.86133703630233
+Darth Maul;Masculino;yellow / red;Dathomirian Zabrak;unknown;170.0;George Lucas;red / black;mau;112.25252525252525;1.7;38.841704239628115
+T-1000;Masculino;unknown;Android;unknown;183.0;Dark Horse Comics;silver;mau;146.0;1.83;43.59640478963241
+T-X;Feminino;unknown;Cyborg;unknown;186.72630560928434;Dark Horse Comics;silver;mau;149.0;1.8672630560928434;42.73416858009364
+Ultron;Masculino;red;Android;unknown;206.0;Marvel Comics;silver;mau;331.0;2.06;77.99981148081818
+Captain Atom;Masculino;blue;Human / Radiation;Silver;193.0;DC Comics;silver;bom;90.0;1.93;24.161722462347985
+Silver Surfer;Masculino;white;Alien;No Hair;193.0;Marvel Comics;silver;bom;101.0;1.93;27.114821874412737
+Joker;Masculino;green;Human;Green;196.0;DC Comics;white;mau;86.0;1.96;22.38650562265723
+Steppenwolf;Masculino;red;New God;Black;183.0;DC Comics;white;mau;91.0;1.83;27.173101615455817
+Blackout;Masculino;red;Demon;White;191.0;Marvel Comics;white;mau;104.0;1.91;28.50799046078781
+Spectre;Masculino;white;God / Eternal;No Hair;186.72630560928434;DC Comics;white;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Ymir;Masculino;white;Frost Giant;No Hair;304.8;Marvel Comics;white;bom;112.25252525252525;3.048;12.082761258676275
+Domino;Feminino;blue;Human;Black;173.0;Marvel Comics;white;bom;54.0;1.73;18.042701059173375
+Bizarro;Masculino;black;Bizarro;Black;191.0;DC Comics;white;neutro;155.0;1.91;42.48787039828952
+Swarm;Masculino;yellow;Mutant;No Hair;196.0;Marvel Comics;yellow;mau;47.0;1.96;12.23448563098709
+Etrigan;Masculino;red;Demon;No Hair;193.0;DC Comics;yellow;neutro;203.0;1.93;54.49810733174045
+T-800;Masculino;red;Cyborg;unknown;186.72630560928434;Dark Horse Comics;unknown;mau;176.0;1.8672630560928434;50.477944094607246
+T-850;Masculino;red;Cyborg;unknown;186.72630560928434;Dark Horse Comics;unknown;mau;198.0;1.8672630560928434;56.787687106433154
+Predator;Masculino;unknown;Yautja;unknown;213.0;Dark Horse Comics;unknown;mau;234.0;2.13;51.57706804205515
+Doomsday;Masculino;red;Alien;White;244.0;DC Comics;unknown;mau;412.0;2.44;69.20182746573502
+Solomon Grundy;Masculino;black;Zombie;White;279.0;DC Comics;unknown;mau;437.0;2.79;56.140080420344034
+Granny Goodness;Feminino;blue;unknown;White;178.0;DC Comics;unknown;mau;115.0;1.78;36.295922232041406
+Professor Zoom;Masculino;blue;Human;Strawberry Blond;180.0;DC Comics;unknown;mau;81.0;1.8;25.0
+Giganta;Feminino;green;unknown;Red;62.5;DC Comics;unknown;mau;630.0;0.625;1612.8
+Maxima;Feminino;brown;unknown;Red;180.0;DC Comics;unknown;mau;72.0;1.8;22.22222222222222
+Lightning Lord;Masculino;blue;unknown;Red;191.0;DC Comics;unknown;mau;95.0;1.91;26.040952824758094
+Plastique;Feminino;blue;unknown;Red;168.0;DC Comics;unknown;mau;55.0;1.68;19.48696145124717
+Siren;Feminino;blue;Atlantean;Purple;175.0;DC Comics;unknown;mau;72.0;1.75;23.510204081632654
+King Shark;Masculino;black;Animal;No Hair;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Anti-Monitor;Masculino;yellow;God / Eternal;No Hair;61.0;DC Comics;unknown;mau;112.25252525252525;0.61;301.6730052473132
+Lex Luthor;Masculino;green;Human;No Hair;188.0;DC Comics;unknown;mau;95.0;1.88;26.87867813490267
+Heat Wave;Masculino;blue;Human;No Hair;180.0;DC Comics;unknown;mau;81.0;1.8;25.0
+Black Manta;Masculino;black;Human;No Hair;188.0;DC Comics;unknown;mau;92.0;1.88;26.029877772747852
+Ra's Al Ghul;Masculino;green;Human;Grey;193.0;DC Comics;unknown;mau;97.0;1.93;26.040967542752828
+Metallo;Masculino;green;Android;Brown;196.0;DC Comics;unknown;mau;90.0;1.96;23.427738442315704
+Atlas;Masculino;blue;God / Eternal;Brown;198.0;DC Comics;unknown;mau;126.0;1.98;32.13957759412305
+Cheetah II;Feminino;green;Human;Brown;170.0;DC Comics;unknown;mau;55.0;1.7;19.031141868512112
+Deadshot;Masculino;brown;Human;Brown;185.0;DC Comics;unknown;mau;91.0;1.85;26.588750913075234
+Cheetah III;Feminino;brown;Human;Brown;175.0;DC Comics;unknown;mau;54.0;1.75;17.632653061224488
+Scarecrow;Masculino;blue;Human;Brown;183.0;DC Comics;unknown;mau;63.0;1.83;18.812147272238644
+Zoom;Masculino;red;unknown;Brown;185.0;DC Comics;unknown;mau;81.0;1.85;23.66691015339664
+Rick Flag;Masculino;blue;unknown;Brown;185.0;DC Comics;unknown;mau;85.0;1.85;24.835646457268076
+Cheetah;Feminino;green;Human;Blond;163.0;DC Comics;unknown;mau;50.0;1.63;18.818924310286427
+Mister Zsasz;Masculino;blue;Human;Blond;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Ozymandias;Masculino;blue;Human;Blond;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Harley Quinn;Feminino;blue;Human;Blond;170.0;DC Comics;unknown;mau;63.0;1.7;21.79930795847751
+Superboy-Prime;Masculino;blue;Kryptonian;Black / Blue;180.0;DC Comics;unknown;mau;77.0;1.8;23.76543209876543
+Cyborg Superman;Masculino;blue;Cyborg;Black;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Gorilla Grodd;Masculino;yellow;Gorilla;Black;198.0;DC Comics;unknown;mau;270.0;1.98;68.87052341597796
+White Canary;Feminino;brown;Human;Black;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Clock King;Masculino;blue;Human;Black;178.0;DC Comics;unknown;mau;78.0;1.78;24.61810377477591
+Penguin;Masculino;blue;Human;Black;157.0;DC Comics;unknown;mau;79.0;1.57;32.049981743681286
+General Zod;Masculino;black;Kryptonian;Black;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Big Barda;Feminino;blue;New God;Black;188.0;DC Comics;unknown;mau;135.0;1.88;38.19601629696695
+Black Adam;Masculino;brown;unknown;Black;191.0;DC Comics;unknown;mau;113.0;1.91;30.97502809681752
+Warp;Masculino;brown;unknown;Black;173.0;DC Comics;unknown;mau;67.0;1.73;22.386314277122523
+Match;Masculino;black;unknown;Black;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Amazo;Masculino;red;Android;unknown;257.0;DC Comics;unknown;mau;173.0;2.57;26.192675135126954
+Mister Mxyzptlk;Masculino;unknown;God / Eternal;unknown;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Bane;Masculino;unknown;Human;unknown;203.0;DC Comics;unknown;mau;180.0;2.03;43.67977868912132
+Mister Freeze;Masculino;unknown;Human;unknown;183.0;DC Comics;unknown;mau;86.0;1.83;25.680074054167036
+Faora;Feminino;unknown;Kryptonian;unknown;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Parademon;Desconhecido;unknown;Parademon;unknown;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Siren II;Feminino;black;unknown;unknown;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Chameleon;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Gog;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Moloch;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Riddler;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Two-Face;Masculino;unknown;unknown;unknown;183.0;DC Comics;unknown;mau;82.0;1.83;24.48565200513601
+Darth Vader;Masculino;yellow;Cyborg;No Hair;198.0;George Lucas;unknown;mau;135.0;1.98;34.43526170798898
+Boba Fett;Masculino;brown;Human / Clone;Black;183.0;George Lucas;unknown;mau;112.25252525252525;1.83;33.519222805257016
+Kylo Ren;Masculino;unknown;Human;unknown;186.72630560928434;George Lucas;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Stormtrooper;Masculino;unknown;Human;unknown;183.0;George Lucas;unknown;mau;112.25252525252525;1.83;33.519222805257016
+Red Mist;Masculino;unknown;unknown;unknown;186.72630560928434;Icon Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Anti-Spawn;Masculino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Billy Kincaid;Masculino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Cogliostro;Masculino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Curse;Masculino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Cy-Gor;Masculino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Overtkill;Masculino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Redeemer II;Masculino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Redeemer III;Masculino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Violator;Masculino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Angela;Feminino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Bomb Queen;Feminino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Sauron;Masculino;unknown;Maiar;unknown;279.0;J. R. R. Tolkien;unknown;mau;112.25252525252525;2.79;14.420745526461022
+Utgard-Loki;Masculino;blue;Frost Giant;White;15.2;Marvel Comics;unknown;mau;58.0;0.152;2510.387811634349
+Mandarin;Masculino;blue;Human;White;188.0;Marvel Comics;unknown;mau;97.0;1.88;27.44454504300589
+Magneto;Masculino;grey;Mutant;White;188.0;Marvel Comics;unknown;mau;86.0;1.88;24.332277048438208
+Spider-Woman IV;Feminino;red;unknown;White;178.0;Marvel Comics;unknown;mau;58.0;1.78;18.30576947355132
+Tinkerer;Masculino;brown;unknown;White;163.0;Marvel Comics;unknown;mau;54.0;1.63;20.32443825510934
+Air-Walker;Masculino;blue;unknown;White;188.0;Marvel Comics;unknown;mau;108.0;1.88;30.556813037573566
+Venom;Masculino;blue;Symbiote;Strawberry Blond;191.0;Marvel Comics;unknown;mau;117.0;1.91;32.07148926838629
+Siryn;Feminino;blue;unknown;Strawberry Blond;168.0;Marvel Comics;unknown;mau;52.0;1.68;18.42403628117914
+Evil Deadpool;Masculino;white;Mutant;Red;188.0;Marvel Comics;unknown;mau;95.0;1.88;26.87867813490267
+Carnage;Masculino;green;Symbiote;Red;185.0;Marvel Comics;unknown;mau;86.0;1.85;25.127830533235937
+Scorpia;Feminino;green;unknown;Red;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Goblin Queen;Feminino;green;unknown;Red;168.0;Marvel Comics;unknown;mau;50.0;1.68;17.71541950113379
+Arclight;Feminino;violet;unknown;Purple;173.0;Marvel Comics;unknown;mau;57.0;1.73;19.045073340238563
+Demogoblin;Masculino;red;Demon;No Hair;185.0;Marvel Comics;unknown;mau;95.0;1.85;27.757487216946675
+Lizard;Masculino;red;Human;No Hair;203.0;Marvel Comics;unknown;mau;230.0;2.03;55.81305054721057
+Mysterio;Masculino;brown;Human;No Hair;180.0;Marvel Comics;unknown;mau;79.0;1.8;24.382716049382715
+Vulture;Masculino;brown;Human;No Hair;180.0;Marvel Comics;unknown;mau;79.0;1.8;24.382716049382715
+Absorbing Man;Masculino;blue;Human;No Hair;193.0;Marvel Comics;unknown;mau;122.0;1.93;32.75255711562727
+Kingpin;Masculino;blue;Human;No Hair;201.0;Marvel Comics;unknown;mau;203.0;2.01;50.24628103264772
+Abomination;Masculino;green;Human / Radiation;No Hair;203.0;Marvel Comics;unknown;mau;441.0;2.03;107.01545778834723
+Onslaught;Masculino;red;Mutant;No Hair;305.0;Marvel Comics;unknown;mau;405.0;3.05;43.536683687180876
+Dormammu;Masculino;yellow;unknown;No Hair;185.0;Marvel Comics;unknown;mau;112.25252525252525;1.85;32.79840036596793
+Bloodwraith;Masculino;white;unknown;No Hair;30.5;Marvel Comics;unknown;mau;112.25252525252525;0.305;1206.6920209892528
+Doppelganger;Masculino;white;unknown;No Hair;196.0;Marvel Comics;unknown;mau;104.0;1.96;27.072053311120367
+Fixer;Desconhecido;red;unknown;No Hair;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Leader;Masculino;green;unknown;No Hair;178.0;Marvel Comics;unknown;mau;63.0;1.78;19.883853048857468
+Vanisher;Masculino;green;unknown;No Hair;165.0;Marvel Comics;unknown;mau;79.0;1.65;29.017447199265384
+Annihilus;Masculino;green;unknown;No Hair;180.0;Marvel Comics;unknown;mau;90.0;1.8;27.777777777777775
+Red Skull;Masculino;blue;unknown;No Hair;188.0;Marvel Comics;unknown;mau;108.0;1.88;30.556813037573566
+Razor-Fist II;Masculino;blue;unknown;No Hair;191.0;Marvel Comics;unknown;mau;117.0;1.91;32.07148926838629
+Iron Monger;Masculino;blue;unknown;No Hair;186.72630560928434;Marvel Comics;unknown;mau;2.0;1.8672630560928434;0.5736130010750824
+Yellow Claw;Masculino;blue;unknown;No Hair;188.0;Marvel Comics;unknown;mau;95.0;1.88;26.87867813490267
+Plantman;Masculino;green;Mutant;Grey;183.0;Marvel Comics;unknown;mau;87.0;1.83;25.97867956642479
+Hobgoblin;Masculino;blue;unknown;Grey;180.0;Marvel Comics;unknown;mau;83.0;1.8;25.61728395061728
+Molten Man;Masculino;gold;unknown;Gold;196.0;Marvel Comics;unknown;mau;248.0;1.96;64.5564348188255
+MODOK;Masculino;white;Cyborg;Brownn;366.0;Marvel Comics;unknown;mau;338.0;3.66;25.232165785780403
+Doctor Octopus;Masculino;brown;Human;Brown;175.0;Marvel Comics;unknown;mau;110.0;1.75;35.91836734693877
+Doctor Doom;Masculino;brown;Human;Brown;201.0;Marvel Comics;unknown;mau;187.0;2.01;46.28598302022228
+Scorpion;Masculino;brown;Human;Brown;211.0;Marvel Comics;unknown;mau;310.0;2.11;69.63006221782979
+Shocker;Masculino;brown;Human;Brown;175.0;Marvel Comics;unknown;mau;79.0;1.75;25.79591836734694
+Taskmaster;Masculino;brown;Human;Brown;188.0;Marvel Comics;unknown;mau;99.0;1.88;28.010411951109102
+Bloodaxe;Feminino;blue;Human;Brown;218.0;Marvel Comics;unknown;mau;495.0;2.18;104.1578991667368
+Rhino;Masculino;brown;Human / Radiation;Brown;196.0;Marvel Comics;unknown;mau;320.0;1.96;83.29862557267806
+Scarlet Witch;Feminino;blue;Mutant;Brown;170.0;Marvel Comics;unknown;mau;59.0;1.7;20.41522491349481
+Mister Knife;Masculino;blue;Spartoi;Brown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Venom III;Masculino;brown;Symbiote;Brown;229.0;Marvel Comics;unknown;mau;334.0;2.29;63.69062374859365
+Kang;Masculino;brown;unknown;Brown;191.0;Marvel Comics;unknown;mau;104.0;1.91;28.50799046078781
+Hydro-Man;Masculino;brown;unknown;Brown;188.0;Marvel Comics;unknown;mau;119.0;1.88;33.66908103214124
+Doctor Doom II;Masculino;brown;unknown;Brown;201.0;Marvel Comics;unknown;mau;132.0;2.01;32.67245860250985
+Blob;Masculino;brown;unknown;Brown;178.0;Marvel Comics;unknown;mau;230.0;1.78;72.59184446408281
+Blizzard II;Masculino;brown;unknown;Brown;175.0;Marvel Comics;unknown;mau;77.0;1.75;25.142857142857142
+Mach-IV;Masculino;brown;unknown;Brown;180.0;Marvel Comics;unknown;mau;79.0;1.8;24.382716049382715
+Big Man;Masculino;blue;unknown;Brown;165.0;Marvel Comics;unknown;mau;71.0;1.65;26.07897153351699
+Fabian Cortez;Desconhecido;blue;unknown;Brown;196.0;Marvel Comics;unknown;mau;96.0;1.96;24.989587671803417
+Blizzard;Masculino;unknown;unknown;Brown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Fallen One II;Masculino;black;unknown;Blue;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Bullseye;Masculino;blue;Human;blond;183.0;Marvel Comics;unknown;mau;90.0;1.83;26.874496103198062
+Sabretooth;Masculino;amber;Mutant;Blond;198.0;Marvel Comics;unknown;mau;171.0;1.98;43.61799816345271
+Omega Red;Masculino;red;unknown;Blond;211.0;Marvel Comics;unknown;mau;191.0;2.11;42.901102850340294
+Proto-Goblin;Masculino;green;unknown;Blond;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Pyro;Masculino;blue;unknown;Blond;178.0;Marvel Comics;unknown;mau;68.0;1.78;21.461936624163616
+Moonstone;Feminino;blue;unknown;Blond;180.0;Marvel Comics;unknown;mau;59.0;1.8;18.209876543209877
+Loki;Masculino;green;Asgardian;Black;193.0;Marvel Comics;unknown;mau;236.0;1.93;63.35740556793471
+Hela;Feminino;green;Asgardian;Black;213.0;Marvel Comics;unknown;mau;225.0;2.13;49.59333465582227
+Abraxas;Masculino;blue;Cosmic Entity;Black;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Ajax;Masculino;brown;Cyborg;Black;193.0;Marvel Comics;unknown;mau;90.0;1.93;24.161722462347985
+Lady Deathstrike;Feminino;brown;Cyborg;Black;175.0;Marvel Comics;unknown;mau;58.0;1.75;18.93877551020408
+Ammo;Masculino;brown;Human;Black;188.0;Marvel Comics;unknown;mau;101.0;1.88;28.576278859212316
+Kraven the Hunter;Masculino;brown;Human;Black;183.0;Marvel Comics;unknown;mau;106.0;1.83;31.652184299322162
+Diamondback;Masculino;brown;Human;Black;193.0;Marvel Comics;unknown;mau;90.0;1.93;24.161722462347985
+Cottonmouth;Masculino;brown;Human;Black;183.0;Marvel Comics;unknown;mau;99.0;1.83;29.56194571351787
+Kraven II;Masculino;brown;Human;Black;191.0;Marvel Comics;unknown;mau;99.0;1.91;27.137413996326856
+Walrus;Masculino;blue;Human;Black;183.0;Marvel Comics;unknown;mau;162.0;1.83;48.37409298575651
+Mister Sinister;Masculino;red;Human / Altered;Black;196.0;Marvel Comics;unknown;mau;128.0;1.96;33.31945022907122
+Morlun;Masculino;white / red;unknown;Black;188.0;Marvel Comics;unknown;mau;79.0;1.88;22.351742870076958
+Mephisto;Masculino;white;unknown;Black;198.0;Marvel Comics;unknown;mau;140.0;1.98;35.710641771247836
+Black Abbott;Masculino;red;unknown;Black;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Black Mamba;Feminino;green;unknown;Black;170.0;Marvel Comics;unknown;mau;52.0;1.7;17.99307958477509
+Venom II;Masculino;brown;unknown;Black;175.0;Marvel Comics;unknown;mau;50.0;1.75;16.3265306122449
+Moses Magnum;Masculino;brown;unknown;Black;175.0;Marvel Comics;unknown;mau;72.0;1.75;23.510204081632654
+Changeling;Masculino;brown;unknown;Black;180.0;Marvel Comics;unknown;mau;81.0;1.8;25.0
+Frenzy;Feminino;brown;unknown;Black;211.0;Marvel Comics;unknown;mau;104.0;2.11;23.35976280856225
+Jigsaw;Masculino;blue;unknown;Black;188.0;Marvel Comics;unknown;mau;113.0;1.88;31.9714803078316
+Blackwing;Masculino;blue;unknown;Black;185.0;Marvel Comics;unknown;mau;86.0;1.85;25.127830533235937
+Callisto;Feminino;blue;unknown;Black;175.0;Marvel Comics;unknown;mau;74.0;1.75;24.163265306122447
+Lady Bullseye;Feminino;unknown;unknown;Black;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Electro;Masculino;blue;Human;Auburn;180.0;Marvel Comics;unknown;mau;74.0;1.8;22.839506172839506
+Green Goblin;Masculino;blue;Human;Auburn;180.0;Marvel Comics;unknown;mau;83.0;1.8;25.61728395061728
+Green Goblin II;Masculino;blue;unknown;Auburn;178.0;Marvel Comics;unknown;mau;77.0;1.78;24.302487059714682
+Snake-Eyes;Masculino;unknown;Animal;unknown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Bird-Man;Masculino;unknown;Human;unknown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Bird-Man II;Masculino;unknown;Human;unknown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Junkpile;Masculino;unknown;Mutant;unknown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Sebastian Shaw;Masculino;unknown;Mutant;unknown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Spider-Carnage;Masculino;unknown;Symbiote;unknown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Living Brain;Desconhecido;yellow;unknown;unknown;198.0;Marvel Comics;unknown;mau;360.0;1.98;91.82736455463728
+Magus;Masculino;black;unknown;unknown;183.0;Marvel Comics;unknown;mau;112.25252525252525;1.83;33.519222805257016
+Beetle;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Weapon XI;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Destroyer;Masculino;unknown;unknown;unknown;188.0;Marvel Comics;unknown;mau;383.0;1.88;108.36351290176552
+Ego;Desconhecido;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Elle Bishop;Feminino;blue;unknown;Blond;186.72630560928434;NBC - Heroes;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Luke Campbell;Masculino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Sylar;Masculino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Vegeta;Masculino;unknown;Saiyan;Black;168.0;Shueisha;unknown;mau;73.0;1.68;25.86451247165533
+Chromos;Masculino;brown;unknown;Red / Grey;185.0;Team Epic TV;unknown;mau;86.0;1.85;25.127830533235937
+Alex Mercer;Masculino;unknown;Human;unknown;186.72630560928434;Wildstorm;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Darkside;Desconhecido;unknown;unknown;unknown;186.72630560928434;unknown;unknown;mau;112.25252525252525;1.8672630560928434;32.194753944178736
+Stephanie Powell;Feminino;unknown;unknown;Blond;186.72630560928434;ABC Studios;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Jim Powell;Masculino;unknown;unknown;unknown;186.72630560928434;ABC Studios;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+JJ Powell;Masculino;unknown;unknown;unknown;186.72630560928434;ABC Studios;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Daphne Powell;Feminino;unknown;unknown;unknown;186.72630560928434;ABC Studios;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Elastigirl;Feminino;brown;Human;Brown;168.0;Dark Horse Comics;unknown;bom;56.0;1.68;19.841269841269845
+Jack-Jack;Masculino;blue;Human;Brown;71.0;Dark Horse Comics;unknown;bom;14.0;0.71;27.772267407260465
+Buffy;Feminino;green;Human;Blond;157.0;Dark Horse Comics;unknown;bom;52.0;1.57;21.096190514828187
+Mr Incredible;Masculino;blue;Human;Blond;201.0;Dark Horse Comics;unknown;bom;158.0;2.01;39.10794287270118
+Dash;Masculino;blue;Human;Blond;122.0;Dark Horse Comics;unknown;bom;27.0;1.22;18.140284869658693
+Hellboy;Masculino;gold;Demon;Black;259.0;Dark Horse Comics;unknown;bom;158.0;2.59;23.553614287205026
+Violet Parr;Feminino;violet;Human;Black;137.0;Dark Horse Comics;unknown;bom;41.0;1.37;21.84453087537961
+Captain Midnight;Masculino;unknown;Human;unknown;186.72630560928434;Dark Horse Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Angel;Masculino;unknown;Vampire;unknown;186.72630560928434;Dark Horse Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Johann Krauss;Masculino;unknown;unknown;unknown;186.72630560928434;Dark Horse Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Liz Sherman;Feminino;unknown;unknown;unknown;186.72630560928434;Dark Horse Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Krypto;Masculino;blue;Kryptonian;White;64.0;DC Comics;unknown;bom;18.0;0.64;43.9453125
+Monarch;Masculino;blue;unknown;White;193.0;DC Comics;unknown;bom;90.0;1.93;24.161722462347985
+Mera;Feminino;blue;Atlantean;Red;175.0;DC Comics;unknown;bom;72.0;1.75;23.510204081632654
+Kid Flash;Masculino;green;Human;Red;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Citizen Steel;Masculino;green;Human;Red;183.0;DC Comics;unknown;bom;170.0;1.83;50.762937083818564
+Ray;Masculino;green;Human;Red;178.0;DC Comics;unknown;bom;70.0;1.78;22.093170054286073
+Red Arrow;Masculino;green;Human;Red;180.0;DC Comics;unknown;bom;83.0;1.8;25.61728395061728
+Batwoman V;Feminino;green;Human;Red;178.0;DC Comics;unknown;bom;112.25252525252525;1.78;35.42877327752974
+Batgirl;Feminino;green;Human;Red;170.0;DC Comics;unknown;bom;57.0;1.7;19.723183391003463
+Robin II;Masculino;blue;Human;Red;183.0;DC Comics;unknown;bom;101.0;1.83;30.15915673803338
+Rorschach;Masculino;blue;Human;Red;168.0;DC Comics;unknown;bom;63.0;1.68;22.321428571428577
+Oracle;Feminino;blue;Human;Red;178.0;DC Comics;unknown;bom;59.0;1.78;18.621386188612547
+Guy Gardner;Masculino;blue;HumanVuldarian;Red;188.0;DC Comics;unknown;bom;95.0;1.88;26.87867813490267
+Miss Martian;Feminino;red;unknown;Red;178.0;DC Comics;unknown;bom;61.0;1.78;19.252619618735007
+Hawkwoman;Feminino;green;unknown;Red;175.0;DC Comics;unknown;bom;54.0;1.75;17.632653061224488
+Hawkgirl;Feminino;green;unknown;Red;175.0;DC Comics;unknown;bom;61.0;1.75;19.918367346938776
+Lightning Lad;Masculino;blue;unknown;Red;155.0;DC Comics;unknown;bom;65.0;1.55;27.055150884495315
+Atom;Masculino;blue;unknown;Red;178.0;DC Comics;unknown;bom;68.0;1.78;21.461936624163616
+Elongated Man;Masculino;blue;unknown;Red;185.0;DC Comics;unknown;bom;80.0;1.85;23.37472607742878
+Misfit;Feminino;blue;unknown;Red;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Light Lass;Feminino;blue;unknown;Red;165.0;DC Comics;unknown;bom;54.0;1.65;19.834710743801654
+Hawkwoman III;Feminino;blue;unknown;Red;170.0;DC Comics;unknown;bom;65.0;1.7;22.49134948096886
+Atom III;Masculino;unknown;unknown;Red;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Fighting Spirit;Feminino;unknown;unknown;Red;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Red Tornado;Masculino;green;Android;No Hair;185.0;DC Comics;unknown;bom;146.0;1.85;42.65887509130752
+Sobek;Masculino;white;unknown;No Hair;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Steel;Masculino;brown;unknown;No Hair;201.0;DC Comics;unknown;bom;131.0;2.01;32.424939976733256
+Black Lightning;Masculino;brown;unknown;No Hair;185.0;DC Comics;unknown;bom;90.0;1.85;26.296566837107374
+Metamorpho;Masculino;black;unknown;No Hair;185.0;DC Comics;unknown;bom;90.0;1.85;26.296566837107374
+Flash;Masculino;blue;Human;Brown / White;180.0;DC Comics;unknown;bom;81.0;1.8;25.0
+Jessica Cruz;Feminino;green;Human;Brown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Speedy;Feminino;green;Human;Brown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Karate Kid;Masculino;brown;Human;Brown;173.0;DC Comics;unknown;bom;72.0;1.73;24.0569347455645
+Hal Jordan;Masculino;brown;Human;Brown;188.0;DC Comics;unknown;bom;90.0;1.88;25.46401086464464
+Hawk;Masculino;red;unknown;Brown;185.0;DC Comics;unknown;bom;89.0;1.85;26.004382761139514
+Triplicate Girl;Feminino;purple;unknown;Brown;168.0;DC Comics;unknown;bom;59.0;1.68;20.904195011337873
+Micro Lad;Masculino;grey;unknown;Brown;183.0;DC Comics;unknown;bom;77.0;1.83;22.99262444384723
+Osiris;Masculino;brown;unknown;Brown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Blue Beetle;Masculino;blue;unknown;Brown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Blue Beetle II;Masculino;blue;unknown;Brown;183.0;DC Comics;unknown;bom;86.0;1.83;25.680074054167036
+Hawkman;Masculino;blue;unknown;Brown;185.0;DC Comics;unknown;bom;88.0;1.85;25.712198685171657
+Aquaman;Masculino;blue;Atlantean;Blond;185.0;DC Comics;unknown;bom;146.0;1.85;42.65887509130752
+Wonder Girl;Feminino;blue;DemiGod;Blond;165.0;DC Comics;unknown;bom;51.0;1.65;18.73278236914601
+Green Arrow;Masculino;green;Human;Blond;188.0;DC Comics;unknown;bom;88.0;1.88;24.898143956541425
+Rip Hunter;Masculino;blue;Human;Blond;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+John Constantine;Masculino;blue;Human;Blond;183.0;DC Comics;unknown;bom;112.25252525252525;1.83;33.519222805257016
+Animal Man;Masculino;blue;Human;Blond;183.0;DC Comics;unknown;bom;83.0;1.83;24.78425751739377
+Question;Masculino;blue;Human;Blond;188.0;DC Comics;unknown;bom;83.0;1.88;23.48347668628339
+Flash II;Masculino;blue;Human;Blond;183.0;DC Comics;unknown;bom;88.0;1.83;26.27728507868255
+Adam Strange;Masculino;blue;Human;Blond;185.0;DC Comics;unknown;bom;88.0;1.85;25.712198685171657
+Doctor Fate;Masculino;blue;Human;Blond;188.0;DC Comics;unknown;bom;89.0;1.88;25.18107741059303
+Booster Gold;Masculino;blue;Human;Blond;196.0;DC Comics;unknown;bom;97.0;1.96;25.249895876718035
+Enchantress;Feminino;blue;Human;Blond;168.0;DC Comics;unknown;bom;57.0;1.68;20.19557823129252
+Black Canary;Feminino;blue;Human;Blond;165.0;DC Comics;unknown;bom;58.0;1.65;21.30394857667585
+Stargirl;Feminino;blue;Human;Blond;165.0;DC Comics;unknown;bom;62.0;1.65;22.77318640955005
+Supergirl;Feminino;blue;Kryptonian;Blond;165.0;DC Comics;unknown;bom;54.0;1.65;19.834710743801654
+Power Girl;Feminino;blue;Kryptonian;blond;180.0;DC Comics;unknown;bom;81.0;1.8;25.0
+Brainiac 5;Masculino;green;unknown;Blond;170.0;DC Comics;unknown;bom;61.0;1.7;21.107266435986162
+Aquababy;Masculino;blue;unknown;Blond;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Magog;Masculino;blue;unknown;Blond;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Alan Scott;Masculino;blue;unknown;Blond;180.0;DC Comics;unknown;bom;90.0;1.8;27.777777777777775
+Batgirl VI;Feminino;blue;unknown;Blond;168.0;DC Comics;unknown;bom;61.0;1.68;21.612811791383223
+Donna Troy;Feminino;blue;Amazon;Black;175.0;DC Comics;unknown;bom;63.0;1.75;20.571428571428573
+Wonder Woman;Feminino;blue;Amazon;Black;183.0;DC Comics;unknown;bom;74.0;1.83;22.096807907073963
+Aqualad;Masculino;blue;Atlantean;Black;178.0;DC Comics;unknown;bom;106.0;1.78;33.45537179649034
+Cyborg;Masculino;brown;Cyborg;Black;198.0;DC Comics;unknown;bom;173.0;1.98;44.12815018875625
+Kyle Rayner;Masculino;green;Human;Black;180.0;DC Comics;unknown;bom;79.0;1.8;24.382716049382715
+John Stewart;Masculino;green;Human;Black;185.0;DC Comics;unknown;bom;90.0;1.85;26.296566837107374
+Batgirl IV;Feminino;green;Human;Black;165.0;DC Comics;unknown;bom;52.0;1.65;19.100091827364558
+Catwoman;Feminino;green;Human;Black;175.0;DC Comics;unknown;bom;61.0;1.75;19.918367346938776
+Azrael;Masculino;brown;Human;Black;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Blue Beetle III;Masculino;brown;Human;Black;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Vibe;Masculino;brown;Human;Black;178.0;DC Comics;unknown;bom;71.0;1.78;22.408786769347305
+Bumblebee;Feminino;brown;Human;Black;170.0;DC Comics;unknown;bom;59.0;1.7;20.41522491349481
+Simon Baz;Masculino;bown;Human;Black;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Captain Marvel;Masculino;blue;Human;Black;193.0;DC Comics;unknown;bom;101.0;1.93;27.114821874412737
+Robin V;Masculino;blue;Human;Black;137.0;DC Comics;unknown;bom;38.0;1.37;20.24615056742501
+Red Robin;Masculino;blue;Human;Black;165.0;DC Comics;unknown;bom;56.0;1.65;20.569329660238754
+Robin III;Masculino;blue;Human;Black;165.0;DC Comics;unknown;bom;56.0;1.65;20.569329660238754
+Alfred Pennyworth;Masculino;blue;Human;Black;178.0;DC Comics;unknown;bom;72.0;1.78;22.724403484408533
+Captain Marvel II;Masculino;blue;Human;Black;175.0;DC Comics;unknown;bom;74.0;1.75;24.163265306122447
+Batman;Masculino;blue;Human;Black;178.0;DC Comics;unknown;bom;77.0;1.78;24.302487059714682
+Batman II;Masculino;blue;Human;Black;178.0;DC Comics;unknown;bom;79.0;1.78;24.933720489837143
+Nightwing;Masculino;blue;Human;Black;178.0;DC Comics;unknown;bom;79.0;1.78;24.933720489837143
+Robin;Masculino;blue;Human;Black;178.0;DC Comics;unknown;bom;79.0;1.78;24.933720489837143
+Plastic Man;Masculino;blue;Human;Black;185.0;DC Comics;unknown;bom;80.0;1.85;23.37472607742878
+Deadman;Masculino;blue;Human;Black;183.0;DC Comics;unknown;bom;90.0;1.83;26.874496103198062
+Zatanna;Feminino;blue;Human;Black;170.0;DC Comics;unknown;bom;57.0;1.7;19.723183391003463
+Vixen;Feminino;amber;Human;Black;175.0;DC Comics;unknown;bom;63.0;1.75;20.571428571428573
+Kevin 11;Masculino;unknown;Human;Black;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Superman;Masculino;blue;Kryptonian;Black;191.0;DC Comics;unknown;bom;101.0;1.91;27.685644582111237
+Static;Masculino;brown;Mutant;Black;170.0;DC Comics;unknown;bom;63.0;1.7;21.79930795847751
+Firestorm;Masculino;brown;unknown;Black;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Atom IV;Masculino;brown;unknown;Black;186.72630560928434;DC Comics;unknown;bom;72.0;1.8672630560928434;20.650068038702965
+Superboy;Masculino;blue;unknown;Black;170.0;DC Comics;unknown;bom;68.0;1.7;23.529411764705884
+Metron;Masculino;blue;unknown;Black;185.0;DC Comics;unknown;bom;86.0;1.85;25.127830533235937
+Phantom Girl;Feminino;blue;unknown;Black;168.0;DC Comics;unknown;bom;54.0;1.68;19.13265306122449
+Huntress;Feminino;blue;unknown;Black;180.0;DC Comics;unknown;bom;59.0;1.8;18.209876543209877
+Atom Girl;Feminino;black;unknown;Black;168.0;DC Comics;unknown;bom;54.0;1.68;19.13265306122449
+Flash IV;Masculino;yellow;Human;Auburn;157.0;DC Comics;unknown;bom;52.0;1.57;21.096190514828187
+Impulse;Masculino;yellow;Human;Auburn;170.0;DC Comics;unknown;bom;65.0;1.7;22.49134948096886
+Atom II;Masculino;brown;Human;Auburn;183.0;DC Comics;unknown;bom;81.0;1.83;24.187046492878256
+Arsenal;Masculino;unknown;Human;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Bushido;Masculino;unknown;Human;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Space Ghost;Masculino;unknown;Human;unknown;188.0;DC Comics;unknown;bom;113.0;1.88;31.9714803078316
+Flash III;Masculino;unknown;Human;unknown;183.0;DC Comics;unknown;bom;86.0;1.83;25.680074054167036
+Jesse Quick;Feminino;unknown;Human;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Garbage Man;Masculino;unknown;Mutant;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Mogo;Masculino;unknown;Planet;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Aztar;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Ben 10;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Colossal Boy;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+ERG-1;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Kid Flash II;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Nite Owl II;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Offspring;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Phantom;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Plastic Lad;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Wildfire;Masculino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Batgirl III;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Batgirl V;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Hawkwoman II;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Isis;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Shrinking Violet;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Silk Spectre;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Silk Spectre II;Feminino;unknown;unknown;unknown;186.72630560928434;DC Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Rey;Feminino;hazel;Human;Brown;297.0;George Lucas;unknown;bom;112.25252525252525;2.97;12.725745134002791
+Jyn Erso;Feminino;green;Human;Brown;186.72630560928434;George Lucas;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Han Solo;Masculino;brown;Human;Brown;183.0;George Lucas;unknown;bom;79.0;1.83;23.589835468362743
+Luke Skywalker;Masculino;blue;Human;Blond;168.0;George Lucas;unknown;bom;77.0;1.68;27.281746031746035
+Indiana Jones;Masculino;unknown;Human;unknown;183.0;George Lucas;unknown;bom;79.0;1.83;23.589835468362743
+Birdman;Masculino;unknown;God / Eternal;unknown;186.72630560928434;Hanna-Barbera;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Colin Wagner;Masculino;grey;unknown;Brown;186.72630560928434;HarperCollins;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Danny Cooper;Masculino;brown;unknown;Blond;186.72630560928434;HarperCollins;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Quantum;Masculino;unknown;unknown;unknown;186.72630560928434;HarperCollins;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Titan;Masculino;unknown;unknown;unknown;186.72630560928434;HarperCollins;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Energy;Feminino;unknown;unknown;unknown;186.72630560928434;HarperCollins;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Renata Soliz;Feminino;unknown;unknown;unknown;186.72630560928434;HarperCollins;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Kick-Ass;Masculino;blue;Human;Blond;186.72630560928434;Icon Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Hit-Girl;Feminino;unknown;Human;unknown;186.72630560928434;Icon Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Big Daddy;Masculino;unknown;unknown;unknown;186.72630560928434;Icon Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Spawn;Masculino;brown;Demon;Black;211.0;Image Comics;unknown;bom;405.0;2.11;90.9683070910357
+Savage Dragon;Masculino;unknown;unknown;unknown;186.72630560928434;Image Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Harry Potter;Masculino;green;Human;Black;186.72630560928434;J. K. Rowling;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Firelord;Desconhecido;white;unknown;Yellow;193.0;Marvel Comics;unknown;bom;99.0;1.93;26.577894708582782
+Howard the Duck;Masculino;brown;unknown;Yellow;79.0;Marvel Comics;unknown;bom;18.0;0.79;28.841531805800347
+Odin;Masculino;blue;God / Eternal;White;206.0;Marvel Comics;unknown;bom;293.0;2.06;69.04515034404751
+Cable;Masculino;blue;Mutant;White;203.0;Marvel Comics;unknown;bom;158.0;2.03;38.34113907156205
+Storm;Feminino;blue;Mutant;White;180.0;Marvel Comics;unknown;bom;57.0;1.8;17.59259259259259
+Frigga;Feminino;blue;unknown;White;180.0;Marvel Comics;unknown;bom;167.0;1.8;51.54320987654321
+Beak;Masculino;black;unknown;White;175.0;Marvel Comics;unknown;bom;63.0;1.75;20.571428571428573
+Clea;Desconhecido;unknown;unknown;White;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Banshee;Masculino;green;Human;Strawberry Blond;183.0;Marvel Comics;unknown;bom;77.0;1.83;22.99262444384723
+Yellowjacket II;Feminino;blue;Human;Strawberry Blond;165.0;Marvel Comics;unknown;bom;52.0;1.65;19.100091827364558
+Crimson Crusader;Masculino;blue;unknown;Strawberry Blond;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Vagabond;Feminino;blue;unknown;Strawberry Blond;168.0;Marvel Comics;unknown;bom;54.0;1.68;19.13265306122449
+Quicksilver;Masculino;blue;Mutant;Silver;183.0;Marvel Comics;unknown;bom;79.0;1.83;23.589835468362743
+Vertigo II;Feminino;blue;unknown;Silver;168.0;Marvel Comics;unknown;bom;52.0;1.68;18.42403628117914
+Songbird;Feminino;green;unknown;Red / White;165.0;Marvel Comics;unknown;bom;65.0;1.65;23.875114784205696
+Hyperion;Masculino;blue;Eternal;Red;183.0;Marvel Comics;unknown;bom;207.0;1.83;61.81134103735554
+Vindicator;Feminino;green;Human;Red;165.0;Marvel Comics;unknown;bom;54.0;1.65;19.834710743801654
+Daredevil;Masculino;blue;Human;Red;183.0;Marvel Comics;unknown;bom;90.0;1.83;26.874496103198062
+Hellcat;Feminino;blue;Human;Red;173.0;Marvel Comics;unknown;bom;61.0;1.73;20.381569714992146
+Crystal;Feminino;green;Inhuman;Red;168.0;Marvel Comics;unknown;bom;50.0;1.68;17.71541950113379
+Medusa;Feminino;green;Inhuman;Red;180.0;Marvel Comics;unknown;bom;59.0;1.8;18.209876543209877
+Jean Grey;Feminino;green;Mutant;Red;168.0;Marvel Comics;unknown;bom;52.0;1.68;18.42403628117914
+Phoenix;Feminino;green;Mutant;Red;168.0;Marvel Comics;unknown;bom;52.0;1.68;18.42403628117914
+Firestar;Feminino;green;Mutant;Red;173.0;Marvel Comics;unknown;bom;56.0;1.73;18.710949246550168
+Hellstorm;Masculino;red;unknown;Red;185.0;Marvel Comics;unknown;bom;81.0;1.85;23.66691015339664
+Thundra;Feminino;green;unknown;Red;218.0;Marvel Comics;unknown;bom;158.0;2.18;33.24635973402912
+Hope Summers;Feminino;green;unknown;Red;168.0;Marvel Comics;unknown;bom;48.0;1.68;17.006802721088437
+Marvel Girl;Feminino;green;unknown;Red;170.0;Marvel Comics;unknown;bom;56.0;1.7;19.377162629757787
+Shatterstar;Masculino;brown;unknown;Red;191.0;Marvel Comics;unknown;bom;88.0;1.91;24.12214577451276
+Hollow;Feminino;blue;unknown;Red;170.0;Marvel Comics;unknown;bom;112.25252525252525;1.7;38.841704239628115
+Ms Marvel II;Feminino;blue;unknown;Red;173.0;Marvel Comics;unknown;bom;61.0;1.73;20.381569714992146
+Psylocke;Feminino;blue;Mutant;Purple;180.0;Marvel Comics;unknown;bom;70.0;1.8;21.604938271604937
+Ariel;Feminino;purple;unknown;Pink;165.0;Marvel Comics;unknown;bom;59.0;1.65;21.6712580348944
+Feral;Desconhecido;yellow (without irises);unknown;Orange / White;175.0;Marvel Comics;unknown;bom;50.0;1.75;16.3265306122449
+Sasquatch;Masculino;red;unknown;Orange;305.0;Marvel Comics;unknown;bom;900.0;3.05;96.74818597151305
+Ghost Rider;Masculino;red;Demon;No Hair;188.0;Marvel Comics;unknown;bom;99.0;1.88;28.010411951109102
+A-Bomb;Masculino;yellow;Human;No Hair;203.0;Marvel Comics;unknown;bom;441.0;2.03;107.01545778834723
+Thing;Masculino;blue;Human / Radiation;No Hair;183.0;Marvel Comics;unknown;bom;225.0;1.83;67.18624025799515
+She-Thing;Feminino;blue;Human / Radiation;No Hair;183.0;Marvel Comics;unknown;bom;153.0;1.83;45.6866433754367
+Bishop;Masculino;brown;Mutant;No Hair;198.0;Marvel Comics;unknown;bom;124.0;1.98;31.62942556881951
+Ink;Masculino;blue;Mutant;No Hair;180.0;Marvel Comics;unknown;bom;81.0;1.8;25.0
+Professor X;Masculino;blue;Mutant;No Hair;183.0;Marvel Comics;unknown;bom;86.0;1.83;25.680074054167036
+Bloodhawk;Masculino;black;Mutant;No Hair;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Morph;Masculino;white;unknown;No Hair;178.0;Marvel Comics;unknown;bom;79.0;1.78;24.933720489837143
+Vision II;Desconhecido;red;unknown;No Hair;191.0;Marvel Comics;unknown;bom;135.0;1.91;37.00556454044571
+Crimson Dynamo;Masculino;brown;unknown;No Hair;180.0;Marvel Comics;unknown;bom;104.0;1.8;32.098765432098766
+Blaquesmith;Desconhecido;black;unknown;No Hair;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Beta Ray Bill;Masculino;unknown;unknown;No Hair;201.0;Marvel Comics;unknown;bom;216.0;2.01;53.464023167743385
+Nightcrawler;Masculino;yellow;unknown;Indigo;175.0;Marvel Comics;unknown;bom;88.0;1.75;28.73469387755102
+Deathlok;Masculino;brown;Cyborg;Grey;193.0;Marvel Comics;unknown;bom;178.0;1.93;47.78651775886601
+Franklin Storm;Desconhecido;blue;unknown;Grey;188.0;Marvel Comics;unknown;bom;92.0;1.88;26.029877772747852
+Captain Planet;Masculino;red;God / Eternal;Green;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+She-Hulk;Feminino;green;Human;Green;201.0;Marvel Comics;unknown;bom;315.0;2.01;77.96836711962577
+Doc Samson;Masculino;blue;Human / Radiation;Green;198.0;Marvel Comics;unknown;bom;171.0;1.98;43.61799816345271
+Polaris;Feminino;green;Mutant;Green;170.0;Marvel Comics;unknown;bom;52.0;1.7;17.99307958477509
+Lyja;Feminino;green;unknown;Green;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Brother Voodoo;Masculino;brown;Human;Brown / White;183.0;Marvel Comics;unknown;bom;99.0;1.83;29.56194571351787
+Nick Fury;Masculino;brown;Human;Brown / White;185.0;Marvel Comics;unknown;bom;99.0;1.85;28.926223520818112
+Rogue;Feminino;green;unknown;Brown / White;173.0;Marvel Comics;unknown;bom;54.0;1.73;18.042701059173375
+Box IV;Desconhecido;brown;unknown;Brown / Black;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Rocket Raccoon;Masculino;brown;Animal;Brown;122.0;Marvel Comics;unknown;bom;25.0;1.22;16.79656006449879
+Scarlet Spider II;Masculino;brown;Clone;Brown;193.0;Marvel Comics;unknown;bom;113.0;1.93;30.336384869392468
+Hercules;Masculino;blue;DemiGod;Brown;196.0;Marvel Comics;unknown;bom;146.0;1.96;38.00499791753436
+Spider-Man;Desconhecido;red;Human;Brown;178.0;Marvel Comics;unknown;bom;77.0;1.78;24.302487059714682
+Justice;Masculino;hazel;Human;Brown;178.0;Marvel Comics;unknown;bom;81.0;1.78;25.5649539199596
+Moon Knight;Masculino;brown;Human;Brown;188.0;Marvel Comics;unknown;bom;101.0;1.88;28.576278859212316
+Winter Soldier;Masculino;brown;Human;Brown;175.0;Marvel Comics;unknown;bom;117.0;1.75;38.204081632653065
+Agent Bob;Masculino;brown;Human;Brown;178.0;Marvel Comics;unknown;bom;81.0;1.78;25.5649539199596
+Darkhawk;Masculino;brown;Human;Brown;185.0;Marvel Comics;unknown;bom;81.0;1.85;23.66691015339664
+Black Knight III;Masculino;brown;Human;Brown;183.0;Marvel Comics;unknown;bom;86.0;1.83;25.680074054167036
+War Machine;Masculino;brown;Human;Brown;185.0;Marvel Comics;unknown;bom;95.0;1.85;27.757487216946675
+Jessica Jones;Feminino;brown;Human;Brown;170.0;Marvel Comics;unknown;bom;56.0;1.7;19.377162629757787
+Jack of Hearts;Masculino;blue / white;Human;Brown;155.0;Marvel Comics;unknown;bom;79.0;1.55;32.882414151925076
+Gravity;Masculino;blue;Human;Brown;178.0;Marvel Comics;unknown;bom;79.0;1.78;24.933720489837143
+Spider-Girl;Feminino;blue;Human;Brown;170.0;Marvel Comics;unknown;bom;54.0;1.7;18.68512110726644
+Mister Fantastic;Masculino;brown;Human / Radiation;Brown;185.0;Marvel Comics;unknown;bom;81.0;1.85;23.66691015339664
+Gambit;Masculino;red;Mutant;Brown;185.0;Marvel Comics;unknown;bom;81.0;1.85;23.66691015339664
+Shadowcat;Feminino;hazel;Mutant;Brown;168.0;Marvel Comics;unknown;bom;50.0;1.68;17.71541950113379
+Chamber;Masculino;brown;Mutant;Brown;175.0;Marvel Comics;unknown;bom;63.0;1.75;20.571428571428573
+Iceman;Masculino;brown;Mutant;Brown;173.0;Marvel Comics;unknown;bom;65.0;1.73;21.71806608974573
+Cyclops;Masculino;brown;Mutant;Brown;191.0;Marvel Comics;unknown;bom;88.0;1.91;24.12214577451276
+Toxin;Masculino;blue;Symbiote;Brown;188.0;Marvel Comics;unknown;bom;97.0;1.88;27.44454504300589
+Green Goblin IV;Masculino;green;unknown;Brown;178.0;Marvel Comics;unknown;bom;79.0;1.78;24.933720489837143
+Mimic;Masculino;brown;unknown;Brown;188.0;Marvel Comics;unknown;bom;101.0;1.88;28.576278859212316
+Ares;Masculino;brown;unknown;Brown;185.0;Marvel Comics;unknown;bom;270.0;1.85;78.88970051132213
+Quill;Masculino;brown;unknown;Brown;163.0;Marvel Comics;unknown;bom;56.0;1.63;21.077195227520797
+Corsair;Masculino;brown;unknown;Brown;191.0;Marvel Comics;unknown;bom;79.0;1.91;21.655108138483047
+Spider-Woman III;Feminino;brown;unknown;Brown;173.0;Marvel Comics;unknown;bom;55.0;1.73;18.376825152861773
+Cecilia Reyes;Desconhecido;brown;unknown;Brown;170.0;Marvel Comics;unknown;bom;62.0;1.7;21.453287197231838
+X-Man;Masculino;blue;unknown;Brown;175.0;Marvel Comics;unknown;bom;61.0;1.75;19.918367346938776
+Multiple Man;Masculino;blue;unknown;Brown;180.0;Marvel Comics;unknown;bom;70.0;1.8;21.604938271604937
+Thor;Masculino;blue;Asgardian;Blond;198.0;Marvel Comics;unknown;bom;288.0;1.98;73.46189164370983
+Thor Girl;Feminino;blue;Asgardian;Blond;175.0;Marvel Comics;unknown;bom;143.0;1.75;46.69387755102041
+Black Cat;Feminino;green;Human;Blond;178.0;Marvel Comics;unknown;bom;54.0;1.78;17.043302613306402
+Hawkeye;Masculino;blue;Human;Blond;191.0;Marvel Comics;unknown;bom;104.0;1.91;28.50799046078781
+Ronin;Masculino;blue;Human;Blond;191.0;Marvel Comics;unknown;bom;104.0;1.91;28.50799046078781
+Captain America;Masculino;blue;Human;blond;188.0;Marvel Comics;unknown;bom;108.0;1.88;30.556813037573566
+Captain Britain;Masculino;blue;Human;Blond;198.0;Marvel Comics;unknown;bom;116.0;1.98;29.58881746760535
+Ant-Man;Masculino;blue;Human;Blond;211.0;Marvel Comics;unknown;bom;122.0;2.11;27.40279867927495
+Longshot;Masculino;blue;Human;Blond;188.0;Marvel Comics;unknown;bom;36.0;1.88;10.185604345857856
+Scarlet Spider;Masculino;blue;Human;Blond;178.0;Marvel Comics;unknown;bom;74.0;1.78;23.355636914530994
+Iron Fist;Masculino;blue;Human;Blond;180.0;Marvel Comics;unknown;bom;79.0;1.8;24.382716049382715
+Yellowjacket;Masculino;blue;Human;Blond;183.0;Marvel Comics;unknown;bom;83.0;1.83;24.78425751739377
+Ant-Man II;Masculino;blue;Human;Blond;183.0;Marvel Comics;unknown;bom;86.0;1.83;25.680074054167036
+Spider-Gwen;Feminino;blue;Human;Blond;165.0;Marvel Comics;unknown;bom;56.0;1.65;20.569329660238754
+Mockingbird;Feminino;blue;Human;Blond;175.0;Marvel Comics;unknown;bom;61.0;1.75;19.918367346938776
+Arachne;Feminino;blue;Human;Blond;175.0;Marvel Comics;unknown;bom;63.0;1.75;20.571428571428573
+Human Torch;Masculino;blue;Human / Radiation;Blond;178.0;Marvel Comics;unknown;bom;77.0;1.78;24.302487059714682
+Invisible Woman;Feminino;blue;Human / Radiation;Blond;168.0;Marvel Comics;unknown;bom;54.0;1.68;19.13265306122449
+Star-Lord;Masculino;blue;HumanSpartoi;Blond;188.0;Marvel Comics;unknown;bom;79.0;1.88;22.351742870076958
+Spyke;Masculino;brown;Mutant;Blond;183.0;Marvel Comics;unknown;bom;83.0;1.83;24.78425751739377
+Darkstar;Feminino;brown;Mutant;Blond;168.0;Marvel Comics;unknown;bom;56.0;1.68;19.841269841269845
+Franklin Richards;Masculino;blue;Mutant;Blond;142.0;Marvel Comics;unknown;bom;45.0;1.42;22.317000595120017
+Mr Immortal;Masculino;blue;Mutant;Blond;188.0;Marvel Comics;unknown;bom;70.0;1.88;19.805341783612494
+Havok;Masculino;blue;Mutant;Blond;183.0;Marvel Comics;unknown;bom;79.0;1.83;23.589835468362743
+Dazzler;Feminino;blue;Mutant;Blond;173.0;Marvel Comics;unknown;bom;52.0;1.73;17.374452871796585
+Boom-Boom;Feminino;blue;Mutant;Blond;165.0;Marvel Comics;unknown;bom;55.0;1.65;20.202020202020204
+Husk;Feminino;blue;Mutant;Blond;170.0;Marvel Comics;unknown;bom;58.0;1.7;20.06920415224914
+Snowbird;Feminino;white;unknown;Blond;178.0;Marvel Comics;unknown;bom;49.0;1.78;15.465219038000251
+Warlock;Masculino;red;unknown;Blond;188.0;Marvel Comics;unknown;bom;108.0;1.88;30.556813037573566
+Captain Mar-vell;Masculino;blue;unknown;Blond;188.0;Marvel Comics;unknown;bom;108.0;1.88;30.556813037573566
+Thunderstrike;Masculino;blue;unknown;Blond;198.0;Marvel Comics;unknown;bom;288.0;1.98;73.46189164370983
+Cannonball;Masculino;blue;unknown;Blond;183.0;Marvel Comics;unknown;bom;81.0;1.83;24.187046492878256
+Genesis;Masculino;blue;unknown;Blond;185.0;Marvel Comics;unknown;bom;86.0;1.85;25.127830533235937
+Penance II;Masculino;blue;unknown;Blond;183.0;Marvel Comics;unknown;bom;89.0;1.83;26.575890590940304
+Namorita;Feminino;blue;unknown;Blond;168.0;Marvel Comics;unknown;bom;101.0;1.68;35.785147392290256
+Ultragirl;Feminino;blue;unknown;Blond;168.0;Marvel Comics;unknown;bom;105.0;1.68;37.202380952380956
+Valkyrie;Feminino;blue;unknown;Blond;191.0;Marvel Comics;unknown;bom;214.0;1.91;58.66067267892876
+Dagger;Feminino;blue;unknown;Blond;165.0;Marvel Comics;unknown;bom;52.0;1.65;19.100091827364558
+Meltdown;Feminino;blue;unknown;Blond;165.0;Marvel Comics;unknown;bom;54.0;1.65;19.834710743801654
+Binary;Feminino;blue;unknown;Blond;180.0;Marvel Comics;unknown;bom;54.0;1.8;16.666666666666664
+Warbird;Feminino;blue;unknown;Blond;180.0;Marvel Comics;unknown;bom;54.0;1.8;16.666666666666664
+Jennifer Kale;Feminino;blue;unknown;Blond;168.0;Marvel Comics;unknown;bom;55.0;1.68;19.48696145124717
+Black Widow II;Feminino;blue;unknown;Blond;170.0;Marvel Comics;unknown;bom;61.0;1.7;21.107266435986162
+Agent 13;Feminino;blue;unknown;Blond;173.0;Marvel Comics;unknown;bom;61.0;1.73;20.381569714992146
+Cat;Feminino;blue;unknown;Blond;173.0;Marvel Comics;unknown;bom;61.0;1.73;20.381569714992146
+Emma Frost;Feminino;blue;unknown;Blond;178.0;Marvel Comics;unknown;bom;65.0;1.78;20.515086478979924
+White Queen;Feminino;blue;unknown;Blond;178.0;Marvel Comics;unknown;bom;65.0;1.78;20.515086478979924
+Namora;Feminino;blue;unknown;Blond;180.0;Marvel Comics;unknown;bom;85.0;1.8;26.234567901234566
+Box III;Desconhecido;blue;unknown;Blond;193.0;Marvel Comics;unknown;bom;110.0;1.93;29.530994120647534
+Cypher;Desconhecido;blue;unknown;Blond;175.0;Marvel Comics;unknown;bom;68.0;1.75;22.20408163265306
+Sif;Feminino;blue;Asgardian;Black;188.0;Marvel Comics;unknown;bom;191.0;1.88;54.04028972385695
+Namor;Masculino;grey;Atlantean;Black;188.0;Marvel Comics;unknown;bom;125.0;1.88;35.36668175645089
+Doctor Strange;Masculino;grey;Human;Black;188.0;Marvel Comics;unknown;bom;81.0;1.88;22.917609778180175
+Spider-Woman;Feminino;green;Human;Black;178.0;Marvel Comics;unknown;bom;59.0;1.78;18.621386188612547
+Guardian;Masculino;brown;Human;Black;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Falcon;Masculino;brown;Human;Black;188.0;Marvel Comics;unknown;bom;108.0;1.88;30.556813037573566
+Luke Cage;Masculino;brown;Human;Black;198.0;Marvel Comics;unknown;bom;191.0;1.98;48.719518416488114
+Shang-Chi;Masculino;brown;Human;Black;178.0;Marvel Comics;unknown;bom;79.0;1.78;24.933720489837143
+Black Panther;Masculino;brown;Human;Black;183.0;Marvel Comics;unknown;bom;90.0;1.83;26.874496103198062
+Silk;Feminino;brown;Human;Black;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Iron Man;Masculino;blue;Human;Black;198.0;Marvel Comics;unknown;bom;191.0;1.98;48.719518416488114
+Punisher;Masculino;blue;Human;Black;183.0;Marvel Comics;unknown;bom;90.0;1.83;26.874496103198062
+Hawkeye II;Feminino;blue;Human;Black;165.0;Marvel Comics;unknown;bom;57.0;1.65;20.936639118457304
+Elektra;Feminino;blue;Human;Black;175.0;Marvel Comics;unknown;bom;59.0;1.75;19.26530612244898
+Black Bolt;Masculino;blue;Inhuman;Black;188.0;Marvel Comics;unknown;bom;95.0;1.88;26.87867813490267
+Angel Dust;Feminino;yellow;Mutant;Black;165.0;Marvel Comics;unknown;bom;57.0;1.65;20.936639118457304
+Colossus;Masculino;silver;Mutant;Black;226.0;Marvel Comics;unknown;bom;225.0;2.26;44.05200093977603
+Jubilee;Feminino;red;Mutant;Black;165.0;Marvel Comics;unknown;bom;52.0;1.65;19.100091827364558
+Legion;Masculino;green / blue;Mutant;Black;175.0;Marvel Comics;unknown;bom;59.0;1.75;19.26530612244898
+Warpath;Masculino;brown;Mutant;Black;218.0;Marvel Comics;unknown;bom;158.0;2.18;33.24635973402912
+Sunspot;Masculino;brown;Mutant;black;173.0;Marvel Comics;unknown;bom;77.0;1.73;25.727555214006482
+Wolverine;Masculino;blue;Mutant;Black;160.0;Marvel Comics;unknown;bom;135.0;1.6;52.73437499999999
+Aurora;Feminino;blue;Mutant;Black;180.0;Marvel Comics;unknown;bom;63.0;1.8;19.444444444444443
+Negasonic Teenage Warhead;Feminino;black;Mutant;Black;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+X-23;Feminino;green;Mutant / Clone;Black;155.0;Marvel Comics;unknown;bom;50.0;1.55;20.811654526534856
+Hybrid;Masculino;brown;Symbiote;Black;175.0;Marvel Comics;unknown;bom;77.0;1.75;25.142857142857142
+Blade;Masculino;brown;Vampire;Black;188.0;Marvel Comics;unknown;bom;97.0;1.88;27.44454504300589
+Shriek;Feminino;yellow / blue;unknown;Black;173.0;Marvel Comics;unknown;bom;52.0;1.73;17.374452871796585
+Wonder Man;Masculino;red;unknown;Black;188.0;Marvel Comics;unknown;bom;171.0;1.88;48.381620642824814
+Machine Man;Desconhecido;red;unknown;Black;183.0;Marvel Comics;unknown;bom;383.0;1.83;114.36591119472064
+Skaar;Masculino;green;unknown;Black;198.0;Marvel Comics;unknown;bom;180.0;1.98;45.91368227731864
+Ripcord;Feminino;green;unknown;Black;180.0;Marvel Comics;unknown;bom;72.0;1.8;22.22222222222222
+Thunderbird;Masculino;brown;unknown;Black;185.0;Marvel Comics;unknown;bom;101.0;1.85;29.510591672753833
+Wyatt Wingfoot;Masculino;brown;unknown;Black;196.0;Marvel Comics;unknown;bom;117.0;1.96;30.456059975010415
+Battlestar;Masculino;brown;unknown;Black;198.0;Marvel Comics;unknown;bom;133.0;1.98;33.92510968268544
+Bantam;Masculino;brown;unknown;Black;165.0;Marvel Comics;unknown;bom;54.0;1.65;19.834710743801654
+Cloak;Masculino;brown;unknown;black;226.0;Marvel Comics;unknown;bom;70.0;2.26;13.705066959041432
+Thunderbird III;Masculino;brown;unknown;Black;175.0;Marvel Comics;unknown;bom;74.0;1.75;24.163265306122447
+Synch;Masculino;brown;unknown;Black;180.0;Marvel Comics;unknown;bom;74.0;1.8;22.839506172839506
+John Wraith;Masculino;brown;unknown;Black;183.0;Marvel Comics;unknown;bom;88.0;1.83;26.27728507868255
+Goliath IV;Masculino;brown;unknown;Black;183.0;Marvel Comics;unknown;bom;90.0;1.83;26.874496103198062
+Silverclaw;Feminino;brown;unknown;Black;157.0;Marvel Comics;unknown;bom;50.0;1.57;20.28479857195018
+Angel Salvadore;Feminino;brown;unknown;Black;163.0;Marvel Comics;unknown;bom;54.0;1.63;20.32443825510934
+Tempest;Feminino;brown;unknown;Black;163.0;Marvel Comics;unknown;bom;54.0;1.63;20.32443825510934
+Firebird;Feminino;brown;unknown;Black;165.0;Marvel Comics;unknown;bom;56.0;1.65;20.569329660238754
+Wiz Kid;Desconhecido;brown;unknown;Black;140.0;Marvel Comics;unknown;bom;39.0;1.4;19.89795918367347
+Forge;Desconhecido;brown;unknown;Black;183.0;Marvel Comics;unknown;bom;81.0;1.83;24.187046492878256
+Maverick;Masculino;blue;unknown;Black;193.0;Marvel Comics;unknown;bom;110.0;1.93;29.530994120647534
+Northstar;Masculino;blue;unknown;Black;180.0;Marvel Comics;unknown;bom;83.0;1.8;25.61728395061728
+Jolt;Feminino;blue;unknown;Black;165.0;Marvel Comics;unknown;bom;49.0;1.65;17.99816345270891
+Sage;Feminino;blue;unknown;Black;170.0;Marvel Comics;unknown;bom;61.0;1.7;21.107266435986162
+Vulcan;Masculino;black;unknown;Black;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Armor;Feminino;black;unknown;Black;163.0;Marvel Comics;unknown;bom;50.0;1.63;18.818924310286427
+Black Widow;Feminino;green;Human;Auburn;170.0;Marvel Comics;unknown;bom;59.0;1.7;20.41522491349481
+Wasp;Feminino;blue;Human;Auburn;163.0;Marvel Comics;unknown;bom;50.0;1.63;18.818924310286427
+Wolfsbane;Feminino;green;unknown;Auburn;366.0;Marvel Comics;unknown;bom;473.0;3.66;35.31010182447967
+Tigra;Feminino;green;unknown;Auburn;178.0;Marvel Comics;unknown;bom;81.0;1.78;25.5649539199596
+Man-Wolf;Masculino;brown;unknown;Auburn;188.0;Marvel Comics;unknown;bom;90.0;1.88;25.46401086464464
+Groot;Masculino;yellow;Flora Colossus;unknown;701.0;Marvel Comics;unknown;bom;4.0;7.01;0.08139991575108721
+Beyonder;Masculino;unknown;God / Eternal;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Captain Universe;Desconhecido;unknown;God / Eternal;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Giant-Man;Masculino;unknown;Human;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Goliath;Masculino;unknown;Human;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Luna;Feminino;unknown;Human;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Power Man;Masculino;unknown;Mutant;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Cerebra;Feminino;unknown;Mutant;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Shadow King;Desconhecido;red;unknown;unknown;185.0;Marvel Comics;unknown;bom;149.0;1.85;43.5354273192111
+Black Goliath;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Bolt;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Box;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Bumbleboy;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Giant-Man II;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Leech;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Speedball;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Stardust;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Thunderbird II;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Watcher;Masculino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Agent Zero;Masculino;unknown;unknown;unknown;191.0;Marvel Comics;unknown;bom;104.0;1.91;28.50799046078781
+Green Goblin III;Masculino;unknown;unknown;unknown;183.0;Marvel Comics;unknown;bom;88.0;1.83;26.27728507868255
+Boomer;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Cat II;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Meteorite;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Penance I;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Spider-Woman II;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Stacy X;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Wondra;Feminino;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Bling!;Feminino;unknown;unknown;unknown;168.0;Marvel Comics;unknown;bom;68.0;1.68;24.092970521541954
+Bird-Brain;Desconhecido;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Ghost Rider II;Desconhecido;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Penance;Desconhecido;unknown;unknown;unknown;186.72630560928434;Marvel Comics;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Master Chief;Masculino;brown;Human / Altered;Brown;213.0;Microsoft;unknown;bom;112.25252525252525;2.13;24.742120225820553
+Adam Monroe;Masculino;blue;unknown;Blond;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Claire Bennet;Feminino;blue;unknown;Blond;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Niki Sanders;Feminino;blue;unknown;Blond;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Micah Sanders;Masculino;brown;unknown;Black;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Nathan Petrelli;Masculino;brown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Alex Woolsly;Masculino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Ando Masahashi;Masculino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+DL Hawkins;Masculino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Hiro Nakamura;Masculino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Matt Parkman;Masculino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Mohinder Suresh;Masculino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Peter Petrelli;Masculino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Jessica Sanders;Feminino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Maya Herrera;Feminino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Monica Dawson;Feminino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Tracy Strauss;Feminino;unknown;unknown;unknown;186.72630560928434;NBC - Heroes;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Judge Dredd;Masculino;unknown;Human;unknown;188.0;Rebellion;unknown;bom;112.25252525252525;1.88;31.759994695712216
+One Punch Man;Masculino;unknown;Human;No Hair;175.0;Shueisha;unknown;bom;69.0;1.75;22.53061224489796
+Naruto Uzumaki;Masculino;unknown;Human;unknown;168.0;Shueisha;unknown;bom;54.0;1.68;19.13265306122449
+Goku;Masculino;unknown;Saiyan;unknown;175.0;Shueisha;unknown;bom;62.0;1.75;20.244897959183675
+Hancock;Masculino;brown;Human;Black;188.0;Sony Pictures;unknown;bom;112.25252525252525;1.88;31.759994695712216
+Paul Blart;Masculino;unknown;Human;unknown;170.0;Sony Pictures;unknown;bom;117.0;1.7;40.484429065743946
+Captain Hindsight;Masculino;unknown;Human;Black;186.72630560928434;South Park;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Data;Masculino;yellow;Android;Brown;186.72630560928434;Star Trek;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+James T. Kirk;Masculino;hazel;Human;Brown;178.0;Star Trek;unknown;bom;77.0;1.78;24.302487059714682
+Spock;Masculino;brown;HumanVulcan;Black;185.0;Star Trek;unknown;bom;81.0;1.85;23.66691015339664
+Jean-Luc Picard;Masculino;unknown;Human;unknown;186.72630560928434;Star Trek;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Kathryn Janeway;Feminino;unknown;Human;unknown;186.72630560928434;Star Trek;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Bill Harken;Masculino;unknown;Alpha;unknown;186.72630560928434;SyFy;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Cameron Hicks;Masculino;unknown;Alpha;unknown;186.72630560928434;SyFy;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Gary Bell;Masculino;unknown;Alpha;unknown;186.72630560928434;SyFy;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Nina Theroux;Feminino;unknown;Alpha;unknown;186.72630560928434;SyFy;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Rachel Pirzad;Feminino;unknown;Alpha;unknown;186.72630560928434;SyFy;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Captain Epic;Masculino;blue;unknown;Brown;188.0;Team Epic TV;unknown;bom;112.25252525252525;1.88;31.759994695712216
+Valerie Hart;Feminino;hazel;unknown;Black;175.0;Team Epic TV;unknown;bom;56.0;1.75;18.285714285714285
+Omniscient;Masculino;brown;unknown;Black;180.0;Team Epic TV;unknown;bom;65.0;1.8;20.061728395061728
+Master Brood;Masculino;blue;unknown;Black;183.0;Team Epic TV;unknown;bom;81.0;1.83;24.187046492878256
+James Bond;Masculino;blue;Human;Blond;183.0;Titan Books;unknown;bom;112.25252525252525;1.83;33.519222805257016
+Darkman;Masculino;unknown;unknown;unknown;186.72630560928434;Universal Studios;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Allan Quatermain;Masculino;unknown;unknown;unknown;186.72630560928434;Wildstorm;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Minna Murray;Feminino;unknown;unknown;unknown;186.72630560928434;Wildstorm;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Ethan Hunt;Masculino;brown;Human;Brown;168.0;unknown;unknown;bom;112.25252525252525;1.68;39.77201149820198
+King Kong;Masculino;yellow;Animal;Black;30.5;unknown;unknown;bom;112.25252525252525;0.305;1206.6920209892528
+Bionic Woman;Feminino;blue;Cyborg;Black;186.72630560928434;unknown;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Rambo;Masculino;brown;Human;Black;178.0;unknown;unknown;bom;83.0;1.78;26.19618735008206
+Astro Boy;Masculino;brown;unknown;Black;186.72630560928434;unknown;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Jason Bourne;Masculino;unknown;Human;unknown;186.72630560928434;unknown;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Katniss Everdeen;Feminino;unknown;Human;unknown;186.72630560928434;unknown;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Flash Gordon;Masculino;unknown;unknown;unknown;186.72630560928434;unknown;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Jack Bauer;Masculino;unknown;unknown;unknown;186.72630560928434;unknown;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+The Cape;Masculino;unknown;unknown;unknown;186.72630560928434;unknown;unknown;bom;112.25252525252525;1.8672630560928434;32.194753944178736
+Chuck Norris;Masculino;unknown;unknown;unknown;178.0;unknown;unknown;bom;112.25252525252525;1.78;35.42877327752974
+Deathstroke;Masculino;blue;Human;White;193.0;DC Comics;unknown;neutro;101.0;1.93;27.114821874412737
+Robin VI;Feminino;green;Human;Red;186.72630560928434;DC Comics;unknown;neutro;112.25252525252525;1.8672630560928434;32.194753944178736
+Indigo;Feminino;unknown;Alien;Purple;186.72630560928434;DC Comics;unknown;neutro;112.25252525252525;1.8672630560928434;32.194753944178736
+Captain Cold;Masculino;brown;Human;Brown;186.72630560928434;DC Comics;unknown;neutro;112.25252525252525;1.8672630560928434;32.194753944178736
+Man-Bat;Masculino;brown;Human;Brown;186.72630560928434;DC Comics;unknown;neutro;112.25252525252525;1.8672630560928434;32.194753944178736
+Raven;Feminino;indigo;Human;Black;165.0;DC Comics;unknown;neutro;50.0;1.65;18.36547291092746
+The Comedian;Masculino;brown;Human;Black;188.0;DC Comics;unknown;neutro;101.0;1.88;28.576278859212316
+Red Hood;Masculino;blue;Human;Black;183.0;DC Comics;unknown;neutro;81.0;1.83;24.187046492878256
+Black Flash;Masculino;unknown;God / Eternal;unknown;186.72630560928434;DC Comics;unknown;neutro;112.25252525252525;1.8672630560928434;32.194753944178736
+Juggernaut;Masculino;blue;Human;Red;287.0;Marvel Comics;unknown;neutro;855.0;2.87;103.80118733989728
+Deadpool;Masculino;brown;Mutant;No Hair;188.0;Marvel Comics;unknown;neutro;95.0;1.88;26.87867813490267
+Sandman;Masculino;brown;Human;Brown;185.0;Marvel Comics;unknown;neutro;203.0;1.85;59.313367421475526
+Sentry;Masculino;blue;Mutant;Blond;188.0;Marvel Comics;unknown;neutro;87.0;1.88;24.615210502489816
+Galactus;Masculino;black;Cosmic Entity;Black;876.0;Marvel Comics;unknown;neutro;16.0;8.76;0.20850274181105483
+One-Above-All;Desconhecido;unknown;Cosmic Entity;unknown;186.72630560928434;Marvel Comics;unknown;neutro;112.25252525252525;1.8672630560928434;32.194753944178736
+Trickster;Masculino;blue;Human;Blond;183.0;DC Comics;unknown;unknown;81.0;1.83;24.187046492878256
+Man of Miracles;Desconhecido;blue;God / Eternal;Silver;186.72630560928434;Image Comics;unknown;unknown;112.25252525252525;1.8672630560928434;32.194753944178736
+Blackwulf;Masculino;red;Alien;White;188.0;Marvel Comics;unknown;unknown;88.0;1.88;24.898143956541425
+Anti-Venom;Masculino;blue;Symbiote;Blond;229.0;Marvel Comics;unknown;unknown;358.0;2.29;68.26719551495967
+Venompool;Masculino;unknown;Symbiote;unknown;226.0;Marvel Comics;unknown;unknown;112.25252525252525;2.26;21.97754821296211
+Q;Masculino;unknown;God / Eternal;unknown;186.72630560928434;Star Trek;unknown;unknown;112.25252525252525;1.8672630560928434;32.194753944178736
+Brundlefly;Masculino;unknown;Mutant;unknown;193.0;unknown;unknown;unknown;112.25252525252525;1.93;30.135715120546926
